@@ -1,0 +1,919 @@
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:40:07 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:40:09 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:40:09 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:40:09 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:40:09 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:40:09 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680468009 [START TIME] 1680468009 [FINISH TIME] 1680468009 [DIFF] 5.29153e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:40:09 2023
+44463[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:40:09 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680468009 [START TIME] 1680468009 [FINISH TIME] 1680468009 [DIFF] 5.35101e+06
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 16:40:09 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 16:40:09 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:43:17 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:43:19 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:43:19 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:43:19 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:43:19 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:43:19 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:43:19 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680468199 [START TIME] 1680468199 [FINISH TIME] 1680468199 [DIFF] 1.8166e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+[SUCCESS] Downloaded file from peer [FILE] 2k.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680468199 [START TIME] 1680468199 [FINISH TIME] 1680468199 [DIFF] 1.17605e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680468199 [START TIME] 1680468199 [FINISH TIME] 1680468199 [DIFF] 771163
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680468199 [START TIME] 1680468199 [FINISH TIME] 1680468199 [DIFF] 870948
+[SUCCESS] Downloading [FILE] 2k.txt [FROM] [IP] 127.0.0.1 [PORT] 44464 [MESSAGE] Download2k.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680468199 [START TIME] 1680468199 [FINISH TIME] 1680468199 [DIFF] 2.36171e+06
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680468199 [START TIME] 1680468199 [FINISH TIME] 1680468199 [DIFF] 5.3292e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:43:19 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:48:08 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:48:10 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:48:10 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:48:10 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:48:10 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:48:10 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680468490 [START TIME] 1680468490 [FINISH TIME] 1680468490 [DIFF] 2.57104e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] Downloaded file from peer [FILE] 2k.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680468490 [START TIME] 1680468490 [FINISH TIME] 1680468490 [DIFF] 1.59566e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680468490 [START TIME] 1680468490 [FINISH TIME] 1680468490 [DIFF] 702267
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680468490 [START TIME] 1680468490 [FINISH TIME] 1680468490 [DIFF] 818564
+[SUCCESS] Downloading [FILE] 2k.txt [FROM] [IP] 127.0.0.1 [PORT] 44464 [MESSAGE] Download2k.txt [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME STAMP] 1680468490 [START TIME] 1680468490 [FINISH TIME] 1680468490 [DIFF] 2.77112e+06
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680468490 [START TIME] 1680468490 [FINISH TIME] 1680468490 [DIFF] 5.6893e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:48:10 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:55:53 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:55:55 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:55:55 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:55:55 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:55:55 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:55:55 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680468955 [START TIME] 1680468955 [FINISH TIME] 1680468955 [DIFF] 3.28644e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:55:55 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:55:55 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680468955 [START TIME] 1680468955 [FINISH TIME] 1680468955 [DIFF] 4.43139e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 16:55:55 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] Downloaded file from peer [FILE] 2k.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680468955 [START TIME] 1680468955 [FINISH TIME] 1680468955 [DIFF] 1.53078e+06
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 16:55:55 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:59:00 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:59:02 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:59:02 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:59:02 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 16:59:02 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 16:59:02 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680469142 [START TIME] 1680469142 [FINISH TIME] 1680469142 [DIFF] 2.45764e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:59:02 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] Downloaded file from peer [FILE] 2k.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680469142 [START TIME] 1680469142 [FINISH TIME] 1680469142 [DIFF] 1.69557e+06
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680469142 [START TIME] 1680469142 [FINISH TIME] 1680469142 [DIFF] 4.39957e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 16:59:02 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680469142 [START TIME] 1680469142 [FINISH TIME] 1680469142 [DIFF] 132972
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680469142 [START TIME] 1680469142 [FINISH TIME] 1680469142 [DIFF] 163827
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] Downloading [FILE] 2k.txt [FROM] [IP] 127.0.0.1 [PORT] 44464 [MESSAGE] Download2k.txt [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME STAMP] 1680469142 [START TIME] 1680469142 [FINISH TIME] 1680469142 [DIFF] 1.92829e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 16:59:02 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:01:01 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:01:03 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:01:03 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:01:03 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:01:03 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:01:03 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680469263 [START TIME] 1680469263 [FINISH TIME] 1680469263 [DIFF] 2.42208e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:01:03 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:01:03 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680469263 [START TIME] 1680469263 [FINISH TIME] 1680469263 [DIFF] 4.40859e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:01:03 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:01:03 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:03:48 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:03:50 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:03:50 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:03:50 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:03:50 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:03:50 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:03:50 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680469430 [START TIME] 1680469430 [FINISH TIME] 1680469430 [DIFF] 2.82736e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:03:50 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:03:50 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:03:50 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:03:50 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680469430 [START TIME] 1680469430 [FINISH TIME] 1680469430 [DIFF] 4.23542e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:03:50 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:03:50 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:03:50 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:03:50 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:03:50 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:03:50 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:06:46 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:06:48 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:06:48 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:06:48 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:06:48 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:06:48 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680469608 [START TIME] 1680469608 [FINISH TIME] 1680469608 [DIFF] 625319
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:06:48 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:06:48 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680469608 [START TIME] 1680469608 [FINISH TIME] 1680469608 [DIFF] 1.40666e+06
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:06:48 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680469608 [START TIME] 1680469608 [FINISH TIME] 1680469608 [DIFF] 613828
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680469608 [START TIME] 1680469608 [FINISH TIME] 1680469608 [DIFF] 523194
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680469608 [START TIME] 1680469608 [FINISH TIME] 1680469608 [DIFF] 560868
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680469608 [START TIME] 1680469608 [FINISH TIME] 1680469608 [DIFF] 1.30724e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:06:48 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:06:48 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:06:48 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:08:46 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:08:48 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:08:48 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:08:48 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:08:48 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:08:48 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680469728 [START TIME] 1680469728 [FINISH TIME] 1680469728 [DIFF] 1.98414e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:08:48 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:08:48 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680469728 [START TIME] 1680469728 [FINISH TIME] 1680469728 [DIFF] 4.53312e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:08:48 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680469728 [START TIME] 1680469728 [FINISH TIME] 1680469728 [DIFF] 464802
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 21 [TIME STAMP] 1680469728 [START TIME] 1680469728 [FINISH TIME] 1680469728 [DIFF] 97146
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680469728 [START TIME] 1680469728 [FINISH TIME] 1680469728 [DIFF] 114481
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680469728 [START TIME] 1680469728 [FINISH TIME] 1680469728 [DIFF] 666301
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:08:48 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:08:48 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:12:47 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:12:49 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:12:49 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:12:49 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:12:49 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:12:49 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680469969 [START TIME] 1680469969 [FINISH TIME] 1680469969 [DIFF] 1.63515e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:12:49 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:12:49 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680469969 [START TIME] 1680469969 [FINISH TIME] 1680469969 [DIFF] 3.12383e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:12:49 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680469969 [START TIME] 1680469969 [FINISH TIME] 1680469969 [DIFF] 1.21186e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680469969 [START TIME] 1680469969 [FINISH TIME] 1680469969 [DIFF] 339531
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680469969 [START TIME] 1680469969 [FINISH TIME] 1680469969 [DIFF] 429010
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680469969 [START TIME] 1680469969 [FINISH TIME] 1680469969 [DIFF] 1.94905e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:12:49 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:12:49 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:12:49 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:16:42 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:16:44 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:16:44 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:16:44 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:16:44 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:16:44 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680470204 [START TIME] 1680470204 [FINISH TIME] 1680470204 [DIFF] 2.94571e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:16:44 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:16:44 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680470204 [START TIME] 1680470204 [FINISH TIME] 1680470204 [DIFF] 4.33894e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:16:44 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680470204 [START TIME] 1680470204 [FINISH TIME] 1680470204 [DIFF] 1.88604e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680470204 [START TIME] 1680470204 [FINISH TIME] 1680470204 [DIFF] 469228
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680470204 [START TIME] 1680470204 [FINISH TIME] 1680470204 [DIFF] 511399
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680470204 [START TIME] 1680470204 [FINISH TIME] 1680470204 [DIFF] 2.59041e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:16:44 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:16:44 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:16:44 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:17:58 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:18:00 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:18:00 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:18:00 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:18:00 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:18:00 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680470280 [START TIME] 1680470280 [FINISH TIME] 1680470280 [DIFF] 301585
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:18:00 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:18:00 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680470280 [START TIME] 1680470280 [FINISH TIME] 1680470280 [DIFF] 888059
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:18:00 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680470280 [START TIME] 1680470280 [FINISH TIME] 1680470280 [DIFF] 302348
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680470280 [START TIME] 1680470280 [FINISH TIME] 1680470280 [DIFF] 76501
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680470280 [START TIME] 1680470280 [FINISH TIME] 1680470280 [DIFF] 90146
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680470280 [START TIME] 1680470280 [FINISH TIME] 1680470280 [DIFF] 461025
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:18:00 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:18:00 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:18:00 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:23:36 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:23:38 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:23:38 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:23:38 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:23:38 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:23:38 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680470618 [START TIME] 1680470618 [FINISH TIME] 1680470618 [DIFF] 2.43248e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:23:38 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:23:38 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680470618 [START TIME] 1680470618 [FINISH TIME] 1680470618 [DIFF] 6.12656e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:23:38 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680470618 [START TIME] 1680470618 [FINISH TIME] 1680470618 [DIFF] 345452
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680470618 [START TIME] 1680470618 [FINISH TIME] 1680470618 [DIFF] 202899
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680470618 [START TIME] 1680470618 [FINISH TIME] 1680470618 [DIFF] 222835
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680470618 [START TIME] 1680470618 [FINISH TIME] 1680470618 [DIFF] 656620
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:23:38 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:23:38 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:23:38 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:24:58 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:25:00 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:25:00 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:25:00 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:25:00 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:25:00 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680470700 [START TIME] 1680470700 [FINISH TIME] 1680470700 [DIFF] 407134
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:25:00 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:25:00 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680470700 [START TIME] 1680470700 [FINISH TIME] 1680470700 [DIFF] 1.53182e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:25:00 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680470700 [START TIME] 1680470700 [FINISH TIME] 1680470700 [DIFF] 241846
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680470700 [START TIME] 1680470700 [FINISH TIME] 1680470700 [DIFF] 70869
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680470700 [START TIME] 1680470700 [FINISH TIME] 1680470700 [DIFF] 84597
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680470700 [START TIME] 1680470700 [FINISH TIME] 1680470700 [DIFF] 385554
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:25:00 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:25:00 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:25:00 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:28:08 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:28:10 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:28:10 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:28:10 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:28:10 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:28:10 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:28:10 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680470890 [START TIME] 1680470890 [FINISH TIME] 1680470890 [DIFF] 3.33207e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:28:10 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:28:10 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:28:10 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:28:10 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680470890 [START TIME] 1680470890 [FINISH TIME] 1680470890 [DIFF] 4.63584e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:28:10 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:28:10 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:28:10 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:28:10 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:28:10 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME STAMP] 1680470890 [START TIME] 1680470890 [FINISH TIME] 1680470890 [DIFF] 298870
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 21 [TIME STAMP] 1680470890 [START TIME] 1680470890 [FINISH TIME] 1680470890 [DIFF] 89247
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME STAMP] 1680470890 [START TIME] 1680470890 [FINISH TIME] 1680470890 [DIFF] 110423
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680470890 [START TIME] 1680470890 [FINISH TIME] 1680470890 [DIFF] 467152
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:28:10 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:28:10 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:28:10 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:30:20 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:30:22 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:30:22 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:30:22 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:30:22 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:30:22 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:30:22 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471022 [START TIME] 1680471022 [FINISH TIME] 1680471022 [DIFF] 1.61287e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:30:22 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:30:22 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:30:22 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:30:22 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471022 [START TIME] 1680471022 [FINISH TIME] 1680471022 [DIFF] 4.66718e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:30:22 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:30:22 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:30:22 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:30:22 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:30:22 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471022 [START TIME] 1680471022 [FINISH TIME] 1680471022 [DIFF] 195302
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471022 [START TIME] 1680471022 [FINISH TIME] 1680471022 [DIFF] 72301
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471022 [START TIME] 1680471022 [FINISH TIME] 1680471022 [DIFF] 85405
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME STAMP] 1680471022 [START TIME] 1680471022 [FINISH TIME] 1680471022 [DIFF] 334765
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:30:22 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:30:22 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:30:22 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:32:04 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:32:06 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:32:06 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:32:06 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:32:06 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:32:06 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471126 [START TIME] 1680471126 [FINISH TIME] 1680471126 [DIFF] 1.85958e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:32:06 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:32:06 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471126 [START TIME] 1680471126 [FINISH TIME] 1680471126 [DIFF] 2.93719e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:32:06 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680471126 [START TIME] 1680471126 [FINISH TIME] 1680471126 [DIFF] 1.9575e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471126 [START TIME] 1680471126 [FINISH TIME] 1680471126 [DIFF] 666807
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680471126 [START TIME] 1680471126 [FINISH TIME] 1680471126 [DIFF] 771677
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471126 [START TIME] 1680471126 [FINISH TIME] 1680471126 [DIFF] 3.09561e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:32:06 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:32:06 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:32:06 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:33:41 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:33:43 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:33:43 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:33:43 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:33:43 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:33:43 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471223 [START TIME] 1680471223 [FINISH TIME] 1680471223 [DIFF] 1.53932e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:33:43 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:33:43 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471223 [START TIME] 1680471223 [FINISH TIME] 1680471223 [DIFF] 3.52962e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:33:43 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471223 [START TIME] 1680471223 [FINISH TIME] 1680471223 [DIFF] 1.3224e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471223 [START TIME] 1680471223 [FINISH TIME] 1680471223 [DIFF] 484244
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471223 [START TIME] 1680471223 [FINISH TIME] 1680471223 [DIFF] 595379
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471223 [START TIME] 1680471223 [FINISH TIME] 1680471223 [DIFF] 2.29786e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:33:43 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:33:43 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:33:43 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:35:11 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:35:13 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:35:13 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:35:13 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:35:13 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:35:13 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:35:13 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471313 [START TIME] 1680471313 [FINISH TIME] 1680471313 [DIFF] 2.03027e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:35:13 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:35:13 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:35:13 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:35:13 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471313 [START TIME] 1680471313 [FINISH TIME] 1680471313 [DIFF] 4.48751e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:35:13 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:35:13 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:35:13 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:35:13 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:35:13 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471313 [START TIME] 1680471313 [FINISH TIME] 1680471313 [DIFF] 1.24897e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471313 [START TIME] 1680471313 [FINISH TIME] 1680471313 [DIFF] 269436
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471313 [START TIME] 1680471313 [FINISH TIME] 1680471313 [DIFF] 305968
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471313 [START TIME] 1680471313 [FINISH TIME] 1680471313 [DIFF] 1.74949e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:35:13 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:35:13 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:35:13 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:36:27 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:36:29 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:36:29 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:36:29 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:36:29 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:36:29 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471389 [START TIME] 1680471389 [FINISH TIME] 1680471389 [DIFF] 1.87348e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:36:29 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:36:29 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471389 [START TIME] 1680471389 [FINISH TIME] 1680471389 [DIFF] 3.27857e+06
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:36:29 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680471389 [START TIME] 1680471389 [FINISH TIME] 1680471389 [DIFF] 1.50224e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471389 [START TIME] 1680471389 [FINISH TIME] 1680471389 [DIFF] 653680
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680471389 [START TIME] 1680471389 [FINISH TIME] 1680471389 [DIFF] 762723
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471389 [START TIME] 1680471389 [FINISH TIME] 1680471389 [DIFF] 2.60797e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:36:29 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:36:29 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:36:29 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:38:01 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:38:03 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:38:03 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:38:03 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:38:03 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:38:03 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471483 [START TIME] 1680471483 [FINISH TIME] 1680471483 [DIFF] 2.5583e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:38:03 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:38:03 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471483 [START TIME] 1680471483 [FINISH TIME] 1680471483 [DIFF] 5.33431e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:38:03 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471483 [START TIME] 1680471483 [FINISH TIME] 1680471483 [DIFF] 1.70006e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471483 [START TIME] 1680471483 [FINISH TIME] 1680471483 [DIFF] 587949
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471483 [START TIME] 1680471483 [FINISH TIME] 1680471483 [DIFF] 688394
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471483 [START TIME] 1680471483 [FINISH TIME] 1680471483 [DIFF] 2.72987e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:38:03 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:38:03 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:38:03 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:40:55 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:40:57 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:40:57 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:40:57 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:40:57 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:40:57 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:40:57 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471657 [START TIME] 1680471657 [FINISH TIME] 1680471657 [DIFF] 1.1349e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:40:57 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:40:57 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:40:57 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:40:57 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471657 [START TIME] 1680471657 [FINISH TIME] 1680471657 [DIFF] 4.63273e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:40:57 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:40:57 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:40:57 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:40:57 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:40:57 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME STAMP] 1680471657 [START TIME] 1680471657 [FINISH TIME] 1680471657 [DIFF] 495656
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 21 [TIME STAMP] 1680471657 [START TIME] 1680471657 [FINISH TIME] 1680471657 [DIFF] 84801
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME STAMP] 1680471657 [START TIME] 1680471657 [FINISH TIME] 1680471657 [DIFF] 107240
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471657 [START TIME] 1680471657 [FINISH TIME] 1680471657 [DIFF] 682439
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:40:57 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:40:57 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:40:57 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:42:29 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:42:31 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:42:31 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:42:31 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:42:31 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:42:31 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471751 [START TIME] 1680471751 [FINISH TIME] 1680471751 [DIFF] 1.15324e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:42:31 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:42:31 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471751 [START TIME] 1680471751 [FINISH TIME] 1680471751 [DIFF] 2.46003e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:42:31 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680471751 [START TIME] 1680471751 [FINISH TIME] 1680471751 [DIFF] 1.15491e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471751 [START TIME] 1680471751 [FINISH TIME] 1680471751 [DIFF] 555725
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680471751 [START TIME] 1680471751 [FINISH TIME] 1680471751 [DIFF] 745072
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471751 [START TIME] 1680471751 [FINISH TIME] 1680471751 [DIFF] 2.20395e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:42:31 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:42:31 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:42:31 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:44:02 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:44:04 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:44:04 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:44:04 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:44:04 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:44:04 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:44:04 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471844 [START TIME] 1680471844 [FINISH TIME] 1680471844 [DIFF] 760477
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:44:04 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:44:04 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471844 [START TIME] 1680471844 [FINISH TIME] 1680471844 [DIFF] 452834
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:44:04 2023
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:44:04 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:44:04 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:44:04 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:44:04 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:44:04 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:44:04 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680471844 [START TIME] 1680471844 [FINISH TIME] 1680471844 [DIFF] 334585
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471844 [START TIME] 1680471844 [FINISH TIME] 1680471844 [DIFF] 126556
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1680471844 [START TIME] 1680471844 [FINISH TIME] 1680471844 [DIFF] 150832
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471844 [START TIME] 1680471844 [FINISH TIME] 1680471844 [DIFF] 571361
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:44:04 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:44:04 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:44:04 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:45:44 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:45:46 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:45:46 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:45:46 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:45:46 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:45:46 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680471946 [START TIME] 1680471946 [FINISH TIME] 1680471946 [DIFF] 2.03044e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:45:46 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:45:46 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680471946 [START TIME] 1680471946 [FINISH TIME] 1680471946 [DIFF] 3.05656e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:45:46 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471946 [START TIME] 1680471946 [FINISH TIME] 1680471946 [DIFF] 2.06298e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680471946 [START TIME] 1680471946 [FINISH TIME] 1680471946 [DIFF] 366824
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680471946 [START TIME] 1680471946 [FINISH TIME] 1680471946 [DIFF] 432868
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680471946 [START TIME] 1680471946 [FINISH TIME] 1680471946 [DIFF] 2.75779e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:45:46 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:45:46 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:45:46 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:48:42 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:48:44 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:48:44 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:48:44 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:48:44 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:48:44 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680472124 [START TIME] 1680472124 [FINISH TIME] 1680472124 [DIFF] 1.51143e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:48:44 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:48:44 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680472124 [START TIME] 1680472124 [FINISH TIME] 1680472124 [DIFF] 2.83695e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:48:44 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472124 [START TIME] 1680472124 [FINISH TIME] 1680472124 [DIFF] 1.49784e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680472124 [START TIME] 1680472124 [FINISH TIME] 1680472124 [DIFF] 900680
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472124 [START TIME] 1680472124 [FINISH TIME] 1680472124 [DIFF] 989656
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680472124 [START TIME] 1680472124 [FINISH TIME] 1680472124 [DIFF] 2.79569e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:48:44 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:48:44 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:48:44 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:50:59 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:51:01 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:51:01 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:51:01 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:51:01 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:51:01 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:51:01 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680472261 [START TIME] 1680472261 [FINISH TIME] 1680472261 [DIFF] 1.85714e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:51:01 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:51:01 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:51:01 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:51:01 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680472261 [START TIME] 1680472261 [FINISH TIME] 1680472261 [DIFF] 6.22177e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:51:01 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:51:01 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:51:01 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:51:01 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME] Sun Apr  2 17:51:01 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME STAMP] 1680472261 [START TIME] 1680472261 [FINISH TIME] 1680472261 [DIFF] 2.00212e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 21 [TIME STAMP] 1680472261 [START TIME] 1680472261 [FINISH TIME] 1680472261 [DIFF] 200192
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME STAMP] 1680472261 [START TIME] 1680472261 [FINISH TIME] 1680472261 [DIFF] 232164
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680472261 [START TIME] 1680472261 [FINISH TIME] 1680472261 [DIFF] 2.45778e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:51:01 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:51:01 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:51:01 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:53:12 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:53:14 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:53:14 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:53:14 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:53:14 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:53:14 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680472394 [START TIME] 1680472394 [FINISH TIME] 1680472394 [DIFF] 2.38257e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:53:14 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:53:14 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680472394 [START TIME] 1680472394 [FINISH TIME] 1680472394 [DIFF] 3.06889e+06
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:53:14 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680472394 [START TIME] 1680472394 [FINISH TIME] 1680472394 [DIFF] 1.06956e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680472394 [START TIME] 1680472394 [FINISH TIME] 1680472394 [DIFF] 995421
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680472394 [START TIME] 1680472394 [FINISH TIME] 1680472394 [DIFF] 1.08581e+06
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680472394 [START TIME] 1680472394 [FINISH TIME] 1680472394 [DIFF] 2.5622e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:53:14 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:53:14 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:53:14 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:54:40 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:54:42 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:54:42 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:54:42 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:54:42 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:54:42 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680472482 [START TIME] 1680472482 [FINISH TIME] 1680472482 [DIFF] 518319
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:54:42 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:54:42 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680472482 [START TIME] 1680472482 [FINISH TIME] 1680472482 [DIFF] 982468
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:54:42 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472482 [START TIME] 1680472482 [FINISH TIME] 1680472482 [DIFF] 219099
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680472482 [START TIME] 1680472482 [FINISH TIME] 1680472482 [DIFF] 69240
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472482 [START TIME] 1680472482 [FINISH TIME] 1680472482 [DIFF] 82022
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME STAMP] 1680472482 [START TIME] 1680472482 [FINISH TIME] 1680472482 [DIFF] 352492
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:54:42 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:54:42 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:54:42 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:56:36 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:56:38 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:56:38 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:56:38 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:56:38 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:56:38 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680472598 [START TIME] 1680472598 [FINISH TIME] 1680472598 [DIFF] 215013
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:56:38 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:56:38 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680472598 [START TIME] 1680472598 [FINISH TIME] 1680472598 [DIFF] 507344
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:56:38 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680472598 [START TIME] 1680472598 [FINISH TIME] 1680472598 [DIFF] 225396
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680472598 [START TIME] 1680472598 [FINISH TIME] 1680472598 [DIFF] 110044
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680472598 [START TIME] 1680472598 [FINISH TIME] 1680472598 [DIFF] 129182
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680472598 [START TIME] 1680472598 [FINISH TIME] 1680472598 [DIFF] 428879
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:56:38 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:56:38 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:56:38 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:58:14 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:58:16 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:58:16 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:58:16 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:58:16 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:58:16 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680472696 [START TIME] 1680472696 [FINISH TIME] 1680472696 [DIFF] 2.56723e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:58:16 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:58:16 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680472696 [START TIME] 1680472696 [FINISH TIME] 1680472696 [DIFF] 4.85607e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:58:16 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472696 [START TIME] 1680472696 [FINISH TIME] 1680472696 [DIFF] 175859
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680472696 [START TIME] 1680472696 [FINISH TIME] 1680472696 [DIFF] 63545
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472696 [START TIME] 1680472696 [FINISH TIME] 1680472696 [DIFF] 75555
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680472696 [START TIME] 1680472696 [FINISH TIME] 1680472696 [DIFF] 297091
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:58:16 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:58:16 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:58:16 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 17:59:47 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:59:49 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:59:49 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:59:49 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:59:49 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 17:59:49 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680472789 [START TIME] 1680472789 [FINISH TIME] 1680472789 [DIFF] 2.04446e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:59:49 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:59:49 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680472789 [START TIME] 1680472789 [FINISH TIME] 1680472789 [DIFF] 6.86391e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:59:49 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472789 [START TIME] 1680472789 [FINISH TIME] 1680472789 [DIFF] 1.11549e+06
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680472789 [START TIME] 1680472789 [FINISH TIME] 1680472789 [DIFF] 280464
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472789 [START TIME] 1680472789 [FINISH TIME] 1680472789 [DIFF] 298261
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680472789 [START TIME] 1680472789 [FINISH TIME] 1680472789 [DIFF] 1.50156e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:59:49 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 17:59:49 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 17:59:49 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:02:06 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:02:08 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:02:08 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:02:08 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:02:08 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:02:08 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680472928 [START TIME] 1680472928 [FINISH TIME] 1680472928 [DIFF] 1.91161e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:02:08 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:02:08 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680472928 [START TIME] 1680472928 [FINISH TIME] 1680472928 [DIFF] 5.07046e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:02:08 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472928 [START TIME] 1680472928 [FINISH TIME] 1680472928 [DIFF] 179780
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680472928 [START TIME] 1680472928 [FINISH TIME] 1680472928 [DIFF] 77024
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680472928 [START TIME] 1680472928 [FINISH TIME] 1680472928 [DIFF] 92939
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME STAMP] 1680472928 [START TIME] 1680472928 [FINISH TIME] 1680472928 [DIFF] 325685
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:02:08 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:02:08 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:02:08 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:03:58 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:04:00 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:04:00 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:04:00 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:04:00 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:04:00 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680473040 [START TIME] 1680473040 [FINISH TIME] 1680473040 [DIFF] 428886
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:04:00 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:04:00 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680473040 [START TIME] 1680473040 [FINISH TIME] 1680473040 [DIFF] 920895
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:04:00 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680473040 [START TIME] 1680473040 [FINISH TIME] 1680473040 [DIFF] 389496
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680473040 [START TIME] 1680473040 [FINISH TIME] 1680473040 [DIFF] 162385
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680473040 [START TIME] 1680473040 [FINISH TIME] 1680473040 [DIFF] 185652
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680473040 [START TIME] 1680473040 [FINISH TIME] 1680473040 [DIFF] 675001
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:04:00 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:04:00 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:04:00 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:06:24 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:06:26 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:06:26 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:06:26 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:06:26 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:06:26 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680473186 [START TIME] 1680473186 [FINISH TIME] 1680473186 [DIFF] 509885
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:06:26 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:06:26 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680473186 [START TIME] 1680473186 [FINISH TIME] 1680473186 [DIFF] 1.3946e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:06:26 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680473186 [START TIME] 1680473186 [FINISH TIME] 1680473186 [DIFF] 531033
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680473186 [START TIME] 1680473186 [FINISH TIME] 1680473186 [DIFF] 592342
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680473186 [START TIME] 1680473186 [FINISH TIME] 1680473186 [DIFF] 628031
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680473186 [START TIME] 1680473186 [FINISH TIME] 1680473186 [DIFF] 1.29238e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:06:26 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:06:26 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:06:26 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:08:45 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:08:47 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:08:47 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:08:47 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680473327 [START TIME] 1680473327 [FINISH TIME] 1680473327 [DIFF] 1.36215e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:08:47 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:08:47 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:08:47 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:08:47 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 16 [TIME STAMP] 1680473327 [START TIME] 1680473327 [FINISH TIME] 1680473327 [DIFF] 564934
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:08:47 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME STAMP] 1680473327 [START TIME] 1680473327 [FINISH TIME] 1680473327 [DIFF] 874726
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 19 [TIME STAMP] 1680473327 [START TIME] 1680473327 [FINISH TIME] 1680473327 [DIFF] 362273
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME STAMP] 1680473327 [START TIME] 1680473327 [FINISH TIME] 1680473327 [DIFF] 389742
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680473327 [START TIME] 1680473327 [FINISH TIME] 1680473327 [DIFF] 1.38898e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:08:47 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:10:01 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:10:03 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:10:03 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:10:03 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:10:03 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:10:03 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680473403 [START TIME] 1680473403 [FINISH TIME] 1680473403 [DIFF] 356001
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:10:03 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:10:03 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680473403 [START TIME] 1680473403 [FINISH TIME] 1680473403 [DIFF] 1.36446e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:10:03 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680473403 [START TIME] 1680473403 [FINISH TIME] 1680473403 [DIFF] 202835
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680473403 [START TIME] 1680473403 [FINISH TIME] 1680473403 [DIFF] 67574
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME STAMP] 1680473403 [START TIME] 1680473403 [FINISH TIME] 1680473403 [DIFF] 83161
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680473403 [START TIME] 1680473403 [FINISH TIME] 1680473403 [DIFF] 344555
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:10:03 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:10:03 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:10:03 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:11:15 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:11:17 2023
+message sent weak peer: 128.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:11:17 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:11:17 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:11:17 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:11:17 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:11:17 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 15 [TIME STAMP] 1680473477 [START TIME] 1680473477 [FINISH TIME] 1680473477 [DIFF] 878599
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:11:17 2023
+44464[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:11:17 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:11:17 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:11:17 2023
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680473477 [START TIME] 1680473477 [FINISH TIME] 1680473477 [DIFF] 1.78377e+06
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:11:17 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:11:17 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:11:17 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:11:17 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Sun Apr  2 18:11:17 2023
+[SUCCESS] Downloaded file from peer [FILE] 128.txt [MESSAGE] DOWNLOADED [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680473477 [START TIME] 1680473477 [FINISH TIME] 1680473477 [DIFF] 773197
+[SUCCESS] super peer added file to peer list [MESSAGE] ADD_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 20 [TIME STAMP] 1680473477 [START TIME] 1680473477 [FINISH TIME] 1680473477 [DIFF] 453907
+[SUCCESS] Added file to the list on super peer [MESSAGE] ADDED_FILE [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME STAMP] 1680473477 [START TIME] 1680473477 [FINISH TIME] 1680473477 [DIFF] 499912
+[SUCCESS] Downloading [FILE] 128.txt [FROM] [IP] 127.0.0.1 [PORT] 44459 [MESSAGE] Download128.txt [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680473477 [START TIME] 1680473477 [FINISH TIME] 1680473477 [DIFF] 1.47799e+06
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:11:17 2023
+[ERROR] other peer sent error instead of file [MESSAGE] DOWNLOAD [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 18:11:17 2023
+[ERROR] Downloading from peer [IP] 127.0.0.1 [PORT] 44464[PeerID] 1 [MESSAGE] RegisterNode_read [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME] Sun Apr  2 18:11:17 2023

@@ -1,0 +1,126 @@
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:23:52 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:23:54 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:23:54 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:23:54 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680474239 [START TIME] 1680474234 [FINISH TIME] 1680474239 [DIFF] 5.00857e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680474239 [START TIME] 1680474234 [FINISH TIME] 1680474239 [DIFF] 5.00863e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:23:59 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:26:26 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:26:28 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:26:28 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:26:28 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680474393 [START TIME] 1680474388 [FINISH TIME] 1680474393 [DIFF] 5.00497e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680474393 [START TIME] 1680474388 [FINISH TIME] 1680474393 [DIFF] 5.00502e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:26:33 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:28:11 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:28:13 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:28:13 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:28:13 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680474498 [START TIME] 1680474493 [FINISH TIME] 1680474498 [DIFF] 5.01039e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680474498 [START TIME] 1680474493 [FINISH TIME] 1680474498 [DIFF] 5.01047e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:28:18 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:31:29 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:31:31 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:31:31 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:31:31 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680474696 [START TIME] 1680474691 [FINISH TIME] 1680474696 [DIFF] 5.01042e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680474696 [START TIME] 1680474691 [FINISH TIME] 1680474696 [DIFF] 5.01057e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:31:36 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:35:03 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:35:05 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:35:05 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:35:05 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680474910 [START TIME] 1680474905 [FINISH TIME] 1680474910 [DIFF] 5.03521e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680474910 [START TIME] 1680474905 [FINISH TIME] 1680474910 [DIFF] 5.0353e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:35:10 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:37:45 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:37:47 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:37:47 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:37:47 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680475072 [START TIME] 1680475067 [FINISH TIME] 1680475072 [DIFF] 5.00362e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680475072 [START TIME] 1680475067 [FINISH TIME] 1680475072 [DIFF] 5.00368e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:37:52 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:42:23 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:42:25 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:42:25 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:42:25 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680475350 [START TIME] 1680475345 [FINISH TIME] 1680475350 [DIFF] 5.03431e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680475350 [START TIME] 1680475345 [FINISH TIME] 1680475350 [DIFF] 5.03441e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:42:30 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:44:39 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:44:41 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:44:41 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:44:41 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680475486 [START TIME] 1680475481 [FINISH TIME] 1680475486 [DIFF] 5.02527e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680475486 [START TIME] 1680475481 [FINISH TIME] 1680475486 [DIFF] 5.02538e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:44:46 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:47:11 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:47:13 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:47:13 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:47:13 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680475638 [START TIME] 1680475633 [FINISH TIME] 1680475638 [DIFF] 5.01798e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680475638 [START TIME] 1680475633 [FINISH TIME] 1680475638 [DIFF] 5.01807e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:47:18 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:49:20 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:49:22 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:49:22 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:49:22 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680475767 [START TIME] 1680475762 [FINISH TIME] 1680475767 [DIFF] 5.02993e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680475767 [START TIME] 1680475762 [FINISH TIME] 1680475767 [DIFF] 5.03018e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:49:27 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:51:16 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:51:18 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:51:18 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:51:18 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680475883 [START TIME] 1680475878 [FINISH TIME] 1680475883 [DIFF] 5.02957e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680475883 [START TIME] 1680475878 [FINISH TIME] 1680475883 [DIFF] 5.02963e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:51:23 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:52:45 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:52:47 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:52:47 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:52:47 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680475972 [START TIME] 1680475967 [FINISH TIME] 1680475972 [DIFF] 5.02763e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680475972 [START TIME] 1680475967 [FINISH TIME] 1680475972 [DIFF] 5.02788e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:52:52 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:54:52 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:54:54 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:54:54 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:54:54 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680476099 [START TIME] 1680476094 [FINISH TIME] 1680476099 [DIFF] 5.00717e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680476099 [START TIME] 1680476094 [FINISH TIME] 1680476099 [DIFF] 5.00722e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:54:59 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:56:58 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:57:00 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:57:00 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:57:00 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680476225 [START TIME] 1680476220 [FINISH TIME] 1680476225 [DIFF] 5.01045e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680476225 [START TIME] 1680476220 [FINISH TIME] 1680476225 [DIFF] 5.01048e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:57:05 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 18:59:00 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:59:02 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:59:02 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:59:02 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680476347 [START TIME] 1680476342 [FINISH TIME] 1680476347 [DIFF] 5.00096e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680476347 [START TIME] 1680476342 [FINISH TIME] 1680476347 [DIFF] 5.00113e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 18:59:07 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 19:01:00 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:01:02 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:01:02 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:01:02 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680476467 [START TIME] 1680476462 [FINISH TIME] 1680476467 [DIFF] 5.0408e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680476467 [START TIME] 1680476462 [FINISH TIME] 1680476467 [DIFF] 5.04119e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:01:07 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 19:03:56 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:03:58 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:03:58 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:03:58 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680476643 [START TIME] 1680476638 [FINISH TIME] 1680476643 [DIFF] 5.01099e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680476643 [START TIME] 1680476638 [FINISH TIME] 1680476643 [DIFF] 5.01117e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:04:03 2023
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 19:05:33 2023
+[SUCCESS] Connecting to super peer [MESSAGE] Connection [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:05:35 2023
+message sent weak peer: 2k.txt[MESSAGE] debug [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:05:35 2023
+[Success] Sending file name to super peer [MESSAGE] QuerySend [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:05:35 2023
+[QUERYFAIL] no super peer has weak peers with files [MESSAGE] QUERYHIT [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1680476740 [START TIME] 1680476735 [FINISH TIME] 1680476740 [DIFF] 5.03523e+09
+[TIME] to query all peers and get results [MESSAGE] QUERYTIME [INDEX_IP]  [SOCKET] 14 [TIME STAMP] 1680476740 [START TIME] 1680476735 [FINISH TIME] 1680476740 [DIFF] 5.03535e+09
+[ERROR] no peer has file[MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME] Sun Apr  2 19:05:40 2023

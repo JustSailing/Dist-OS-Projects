@@ -1,0 +1,1514 @@
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 11:50:43 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 11:50:43 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 11:50:43 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 11:50:44 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 44336 [TIME] Sun Apr  2 11:50:44 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:50:44 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:50:44 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:50:44 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:50:44 2023
+
+2k.txt,Sun Apr  2 11:50:44 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:50:44 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:50:44 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680450644 [START TIME] 1680450644 [FINISH TIME] 1680450644 [DIFF] 1.00518e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 11:58:01 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 11:58:01 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 11:58:01 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 11:58:02 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 51064 [TIME] Sun Apr  2 11:58:02 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+2k.txt,Sun Apr  2 11:58:02 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680451082 [START TIME] 1680451082 [FINISH TIME] 1680451082 [DIFF] 327613
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:35:41 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:35:41 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:35:41 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:35:42 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 53248 [TIME] Sun Apr  2 13:35:42 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+2k.txt,Sun Apr  2 13:35:42 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680456942 [START TIME] 1680456942 [FINISH TIME] 1680456942 [DIFF] 1.28508e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:37:26 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:37:26 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:37:26 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:37:27 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 43058 [TIME] Sun Apr  2 13:37:27 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+2k.txt,Sun Apr  2 13:37:27 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457047 [START TIME] 1680457047 [FINISH TIME] 1680457047 [DIFF] 258994
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:37:34 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:37:34 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:37:42 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:37:42 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:38:51 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:38:51 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:38:51 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:38:52 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 41620 [TIME] Sun Apr  2 13:38:52 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+2k.txt,Sun Apr  2 13:38:52 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457132 [START TIME] 1680457132 [FINISH TIME] 1680457132 [DIFF] 320657
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:39:07 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:39:07 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:39:36 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:39:36 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:39:53 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:39:53 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:41:27 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:41:27 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:41:27 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:41:28 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 54568 [TIME] Sun Apr  2 13:41:28 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+2k.txt,Sun Apr  2 13:41:28 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457288 [START TIME] 1680457288 [FINISH TIME] 1680457288 [DIFF] 1.74063e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:41:51 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:41:51 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:42:30 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:42:30 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:42:46 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:42:46 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:42:46 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:42:47 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49656 [TIME] Sun Apr  2 13:42:47 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+2k.txt,Sun Apr  2 13:42:47 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457367 [START TIME] 1680457367 [FINISH TIME] 1680457367 [DIFF] 540213
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:44:09 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:44:09 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:44:09 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:44:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 44696 [TIME] Sun Apr  2 13:44:10 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+2k.txt,Sun Apr  2 13:44:10 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457450 [START TIME] 1680457450 [FINISH TIME] 1680457450 [DIFF] 286258
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:44:31 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:44:31 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:44:42 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:44:42 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:45:11 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:45:11 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:45:58 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:45:58 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:45:58 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:45:59 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 32920 [TIME] Sun Apr  2 13:45:59 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+2k.txt,Sun Apr  2 13:45:59 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457559 [START TIME] 1680457559 [FINISH TIME] 1680457559 [DIFF] 317613
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:49:50 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:49:50 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:49:50 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:49:51 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48752 [TIME] Sun Apr  2 13:49:51 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+2k.txt,Sun Apr  2 13:49:51 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457791 [START TIME] 1680457791 [FINISH TIME] 1680457791 [DIFF] 391755
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:51:58 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:51:58 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:51:58 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:51:59 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 54386 [TIME] Sun Apr  2 13:51:59 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+2k.txt,Sun Apr  2 13:51:59 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457919 [START TIME] 1680457919 [FINISH TIME] 1680457919 [DIFF] 330799
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:56:57 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:56:57 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 13:56:57 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:56:58 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50298 [TIME] Sun Apr  2 13:56:58 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+2k.txt,Sun Apr  2 13:56:58 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458218 [START TIME] 1680458218 [FINISH TIME] 1680458218 [DIFF] 332309
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:57:35 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:57:35 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:00:29 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:00:29 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:00:29 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:00:30 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 38396 [TIME] Sun Apr  2 14:00:30 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+2k.txt,Sun Apr  2 14:00:30 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458430 [START TIME] 1680458430 [FINISH TIME] 1680458430 [DIFF] 324031
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:01:21 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 14:01:21 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:04:40 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:04:40 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:04:40 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:04:41 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57130 [TIME] Sun Apr  2 14:04:41 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+2k.txt,Sun Apr  2 14:04:41 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458681 [START TIME] 1680458681 [FINISH TIME] 1680458681 [DIFF] 6.34872e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:06:48 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:06:48 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:06:48 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:06:49 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36634 [TIME] Sun Apr  2 14:06:49 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+2k.txt,Sun Apr  2 14:06:49 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458809 [START TIME] 1680458809 [FINISH TIME] 1680458809 [DIFF] 1.93023e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:09:46 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:09:46 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:09:46 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:09:47 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 43822 [TIME] Sun Apr  2 14:09:47 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+2k.txt,Sun Apr  2 14:09:47 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458987 [START TIME] 1680458987 [FINISH TIME] 1680458987 [DIFF] 338308
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:12:54 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:12:54 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:12:54 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:12:55 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36610 [TIME] Sun Apr  2 14:12:55 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+2k.txt,Sun Apr  2 14:12:55 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680459175 [START TIME] 1680459175 [FINISH TIME] 1680459175 [DIFF] 1.88092e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:16:23 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:16:23 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:16:23 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:16:24 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 39456 [TIME] Sun Apr  2 14:16:24 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+2k.txt,Sun Apr  2 14:16:24 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680459384 [START TIME] 1680459384 [FINISH TIME] 1680459384 [DIFF] 390641
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:19:54 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:19:54 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:19:54 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:19:55 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 53076 [TIME] Sun Apr  2 14:19:55 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+2k.txt,Sun Apr  2 14:19:55 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680459595 [START TIME] 1680459595 [FINISH TIME] 1680459595 [DIFF] 376750
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:23:42 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:23:42 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:23:42 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:23:43 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 56726 [TIME] Sun Apr  2 14:23:43 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+2k.txt,Sun Apr  2 14:23:43 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680459823 [START TIME] 1680459823 [FINISH TIME] 1680459823 [DIFF] 529879
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:26:58 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:26:58 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:26:58 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:26:59 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57050 [TIME] Sun Apr  2 14:26:59 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+2k.txt,Sun Apr  2 14:26:59 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460019 [START TIME] 1680460019 [FINISH TIME] 1680460019 [DIFF] 268081
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:28:09 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:28:09 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:28:09 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:28:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 54214 [TIME] Sun Apr  2 14:28:10 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+2k.txt,Sun Apr  2 14:28:10 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460090 [START TIME] 1680460090 [FINISH TIME] 1680460090 [DIFF] 337322
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:31:39 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:31:39 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:31:39 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:31:40 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 52106 [TIME] Sun Apr  2 14:31:40 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+2k.txt,Sun Apr  2 14:31:40 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460300 [START TIME] 1680460300 [FINISH TIME] 1680460300 [DIFF] 449526
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:33:08 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:33:08 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:33:08 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:33:09 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49864 [TIME] Sun Apr  2 14:33:09 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+2k.txt,Sun Apr  2 14:33:09 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460389 [START TIME] 1680460389 [FINISH TIME] 1680460389 [DIFF] 289041
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:36:15 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:36:15 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:36:15 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:36:16 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 45700 [TIME] Sun Apr  2 14:36:16 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+2k.txt,Sun Apr  2 14:36:16 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460576 [START TIME] 1680460576 [FINISH TIME] 1680460576 [DIFF] 284970
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:39:09 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:39:09 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:39:09 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:39:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 38308 [TIME] Sun Apr  2 14:39:10 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+2k.txt,Sun Apr  2 14:39:10 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460750 [START TIME] 1680460750 [FINISH TIME] 1680460750 [DIFF] 280263
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:49:13 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:49:13 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:49:13 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:49:14 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47080 [TIME] Sun Apr  2 14:49:14 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+2k.txt,Sun Apr  2 14:49:14 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461354 [START TIME] 1680461354 [FINISH TIME] 1680461354 [DIFF] 323762
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:51:57 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:51:57 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:51:57 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:51:58 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 53236 [TIME] Sun Apr  2 14:51:58 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+2k.txt,Sun Apr  2 14:51:58 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461518 [START TIME] 1680461518 [FINISH TIME] 1680461518 [DIFF] 292104
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:53:28 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:53:28 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:53:28 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:53:29 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 58944 [TIME] Sun Apr  2 14:53:29 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+2k.txt,Sun Apr  2 14:53:29 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461609 [START TIME] 1680461609 [FINISH TIME] 1680461609 [DIFF] 365408
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:57:24 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:57:24 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:57:24 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:57:25 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 44360 [TIME] Sun Apr  2 14:57:25 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+2k.txt,Sun Apr  2 14:57:25 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461845 [START TIME] 1680461845 [FINISH TIME] 1680461845 [DIFF] 289366
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:59:45 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:59:45 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 14:59:45 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:59:46 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 33130 [TIME] Sun Apr  2 14:59:46 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+2k.txt,Sun Apr  2 14:59:46 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461986 [START TIME] 1680461986 [FINISH TIME] 1680461986 [DIFF] 285235
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:01:26 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:01:26 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:01:26 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:01:27 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 44618 [TIME] Sun Apr  2 15:01:27 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+2k.txt,Sun Apr  2 15:01:27 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462087 [START TIME] 1680462087 [FINISH TIME] 1680462087 [DIFF] 279671
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:03:08 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:03:08 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:03:08 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:03:09 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 43040 [TIME] Sun Apr  2 15:03:09 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+2k.txt,Sun Apr  2 15:03:09 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462189 [START TIME] 1680462189 [FINISH TIME] 1680462189 [DIFF] 365048
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:07:05 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:07:05 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:07:05 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:07:06 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 37922 [TIME] Sun Apr  2 15:07:06 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+2k.txt,Sun Apr  2 15:07:06 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462426 [START TIME] 1680462426 [FINISH TIME] 1680462426 [DIFF] 288774
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:09:15 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:09:15 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:09:15 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:09:16 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 58536 [TIME] Sun Apr  2 15:09:16 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+2k.txt,Sun Apr  2 15:09:16 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462556 [START TIME] 1680462556 [FINISH TIME] 1680462556 [DIFF] 317741
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:12:07 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:12:07 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:12:07 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:12:08 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 60500 [TIME] Sun Apr  2 15:12:08 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+2k.txt,Sun Apr  2 15:12:08 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462728 [START TIME] 1680462728 [FINISH TIME] 1680462728 [DIFF] 288894
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:16:15 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:16:15 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:16:15 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:16:16 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35034 [TIME] Sun Apr  2 15:16:16 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+2k.txt,Sun Apr  2 15:16:16 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462976 [START TIME] 1680462976 [FINISH TIME] 1680462976 [DIFF] 312254
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:18:35 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:18:35 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:18:35 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:18:36 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 38472 [TIME] Sun Apr  2 15:18:36 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+2k.txt,Sun Apr  2 15:18:36 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680463116 [START TIME] 1680463116 [FINISH TIME] 1680463116 [DIFF] 307242
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:24:19 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:24:19 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:24:19 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:24:20 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50714 [TIME] Sun Apr  2 15:24:20 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+2k.txt,Sun Apr  2 15:24:20 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680463460 [START TIME] 1680463460 [FINISH TIME] 1680463460 [DIFF] 289655
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:26:30 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:26:30 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:26:30 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:26:31 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48102 [TIME] Sun Apr  2 15:26:31 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+2k.txt,Sun Apr  2 15:26:31 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680463591 [START TIME] 1680463591 [FINISH TIME] 1680463591 [DIFF] 375952
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:31:07 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:31:07 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:31:07 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:31:08 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49620 [TIME] Sun Apr  2 15:31:08 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+2k.txt,Sun Apr  2 15:31:08 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680463868 [START TIME] 1680463868 [FINISH TIME] 1680463868 [DIFF] 349217
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:36:58 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:36:58 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:36:58 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:36:59 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47394 [TIME] Sun Apr  2 15:36:59 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+2k.txt,Sun Apr  2 15:36:59 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680464219 [START TIME] 1680464219 [FINISH TIME] 1680464219 [DIFF] 280551
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:44:10 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:44:10 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:44:10 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:44:11 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50324 [TIME] Sun Apr  2 15:44:11 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+2k.txt,Sun Apr  2 15:44:11 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680464651 [START TIME] 1680464651 [FINISH TIME] 1680464651 [DIFF] 333408
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:49:30 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:49:30 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:49:30 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:49:31 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50664 [TIME] Sun Apr  2 15:49:31 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+2k.txt,Sun Apr  2 15:49:31 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680464971 [START TIME] 1680464971 [FINISH TIME] 1680464971 [DIFF] 284141
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:49:53 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 15:49:53 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:51:50 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:51:50 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:51:50 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:51:51 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35478 [TIME] Sun Apr  2 15:51:51 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+2k.txt,Sun Apr  2 15:51:51 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465111 [START TIME] 1680465111 [FINISH TIME] 1680465111 [DIFF] 1.65441e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:54:07 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:54:07 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 15:54:07 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:54:08 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 55358 [TIME] Sun Apr  2 15:54:08 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+2k.txt,Sun Apr  2 15:54:08 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465248 [START TIME] 1680465248 [FINISH TIME] 1680465248 [DIFF] 303643
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:00:27 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:00:27 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:00:27 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:00:28 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 44268 [TIME] Sun Apr  2 16:00:28 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+2k.txt,Sun Apr  2 16:00:28 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465628 [START TIME] 1680465628 [FINISH TIME] 1680465628 [DIFF] 982040
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:03:45 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:03:45 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:03:45 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:03:46 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 44238 [TIME] Sun Apr  2 16:03:46 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+2k.txt,Sun Apr  2 16:03:46 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465826 [START TIME] 1680465826 [FINISH TIME] 1680465826 [DIFF] 416001
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:04:22 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 16:04:22 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:05:45 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:05:45 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:05:45 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:05:46 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 43900 [TIME] Sun Apr  2 16:05:46 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+2k.txt,Sun Apr  2 16:05:46 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465946 [START TIME] 1680465946 [FINISH TIME] 1680465946 [DIFF] 1.49616e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:08:04 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:08:04 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:08:04 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:08:05 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40736 [TIME] Sun Apr  2 16:08:05 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+2k.txt,Sun Apr  2 16:08:05 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680466085 [START TIME] 1680466085 [FINISH TIME] 1680466085 [DIFF] 1.84595e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:08:32 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 16:08:32 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:11:42 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:11:42 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:11:42 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:11:43 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35732 [TIME] Sun Apr  2 16:11:43 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+2k.txt,Sun Apr  2 16:11:43 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680466303 [START TIME] 1680466303 [FINISH TIME] 1680466303 [DIFF] 356962
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:19:01 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:19:01 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:19:01 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:19:02 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 46806 [TIME] Sun Apr  2 16:19:02 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+2k.txt,Sun Apr  2 16:19:02 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680466742 [START TIME] 1680466742 [FINISH TIME] 1680466742 [DIFF] 392764
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:23:06 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:23:06 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:23:06 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:23:07 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 56858 [TIME] Sun Apr  2 16:23:07 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+2k.txt,Sun Apr  2 16:23:07 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680466987 [START TIME] 1680466987 [FINISH TIME] 1680466987 [DIFF] 409731
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:24:29 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:24:29 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:24:29 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:24:30 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36160 [TIME] Sun Apr  2 16:24:30 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+2k.txt,Sun Apr  2 16:24:30 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467070 [START TIME] 1680467070 [FINISH TIME] 1680467070 [DIFF] 464566
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:29:22 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:29:22 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:29:22 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:29:23 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 55968 [TIME] Sun Apr  2 16:29:23 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+2k.txt,Sun Apr  2 16:29:23 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467363 [START TIME] 1680467363 [FINISH TIME] 1680467363 [DIFF] 503670
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:32:39 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:32:39 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:32:39 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:32:40 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 60152 [TIME] Sun Apr  2 16:32:40 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+2k.txt,Sun Apr  2 16:32:40 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467560 [START TIME] 1680467560 [FINISH TIME] 1680467560 [DIFF] 394814
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:34:18 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:34:18 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:34:18 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:34:19 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 32950 [TIME] Sun Apr  2 16:34:19 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+2k.txt,Sun Apr  2 16:34:19 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467659 [START TIME] 1680467659 [FINISH TIME] 1680467659 [DIFF] 521780
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:35:12 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 16:35:12 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:36:00 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:36:00 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33328 [TIME] Sun Apr  2 16:36:00 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:36:01 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 60148 [TIME] Sun Apr  2 16:36:01 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44457[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+2k.txt,Sun Apr  2 16:36:01 2023
+
+2k.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+file 2k.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467761 [START TIME] 1680467761 [FINISH TIME] 1680467761 [DIFF] 297190

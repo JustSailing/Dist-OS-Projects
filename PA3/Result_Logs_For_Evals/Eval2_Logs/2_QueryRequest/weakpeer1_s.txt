@@ -1,0 +1,453 @@
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:40:07 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:40:07 2023
+Before printing body Sun Apr  2 16:40:07 2023
+Need to update peer file list Sun Apr  2 16:40:07 2023
+in update messageSun Apr  2 16:40:07 2023
+128.txt,Sun Apr  2 16:40:07 2023
+ after all_filesSun Apr  2 16:40:07 2023
+1Sun Apr  2 16:40:07 2023
+after sendSun Apr  2 16:40:07 2023
+128.txt,Sun Apr  2 16:40:07 2023
+7Sun Apr  2 16:40:07 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:43:17 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:43:17 2023
+Before printing body Sun Apr  2 16:43:17 2023
+Need to update peer file list Sun Apr  2 16:43:17 2023
+in update messageSun Apr  2 16:43:17 2023
+128.txt,Sun Apr  2 16:43:17 2023
+ after all_filesSun Apr  2 16:43:17 2023
+1Sun Apr  2 16:43:17 2023
+after sendSun Apr  2 16:43:17 2023
+128.txt,Sun Apr  2 16:43:17 2023
+7Sun Apr  2 16:43:17 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:48:08 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:48:08 2023
+Before printing body Sun Apr  2 16:48:08 2023
+Need to update peer file list Sun Apr  2 16:48:08 2023
+in update messageSun Apr  2 16:48:08 2023
+128.txt,Sun Apr  2 16:48:08 2023
+ after all_filesSun Apr  2 16:48:08 2023
+1Sun Apr  2 16:48:08 2023
+after sendSun Apr  2 16:48:08 2023
+128.txt,Sun Apr  2 16:48:08 2023
+7Sun Apr  2 16:48:08 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:49:10 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:49:10 2023
+[ERROR] Connecting to index server with [MESSAGE] Connection Fail [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 16:49:10 2023
+[FAILURE] Could not register peer node [MESSAGE] Register peer [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 16:49:10 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:55:53 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:55:53 2023
+Before printing body Sun Apr  2 16:55:53 2023
+Need to update peer file list Sun Apr  2 16:55:53 2023
+in update messageSun Apr  2 16:55:53 2023
+128.txt,Sun Apr  2 16:55:53 2023
+ after all_filesSun Apr  2 16:55:53 2023
+1Sun Apr  2 16:55:53 2023
+after sendSun Apr  2 16:55:53 2023
+128.txt,Sun Apr  2 16:55:53 2023
+7Sun Apr  2 16:55:53 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:59:00 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 16:59:00 2023
+Before printing body Sun Apr  2 16:59:00 2023
+Need to update peer file list Sun Apr  2 16:59:00 2023
+in update messageSun Apr  2 16:59:00 2023
+128.txt,Sun Apr  2 16:59:00 2023
+ after all_filesSun Apr  2 16:59:00 2023
+1Sun Apr  2 16:59:00 2023
+after sendSun Apr  2 16:59:00 2023
+128.txt,Sun Apr  2 16:59:00 2023
+7Sun Apr  2 16:59:00 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:01:01 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:01:01 2023
+Before printing body Sun Apr  2 17:01:01 2023
+Need to update peer file list Sun Apr  2 17:01:01 2023
+in update messageSun Apr  2 17:01:01 2023
+128.txt,Sun Apr  2 17:01:01 2023
+ after all_filesSun Apr  2 17:01:01 2023
+1Sun Apr  2 17:01:01 2023
+after sendSun Apr  2 17:01:01 2023
+128.txt,Sun Apr  2 17:01:01 2023
+7Sun Apr  2 17:01:01 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:02:07 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:02:07 2023
+[ERROR] Connecting to index server with [MESSAGE] Connection Fail [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:02:07 2023
+[FAILURE] Could not register peer node [MESSAGE] Register peer [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:02:07 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:03:48 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:03:48 2023
+Before printing body Sun Apr  2 17:03:48 2023
+Need to update peer file list Sun Apr  2 17:03:48 2023
+in update messageSun Apr  2 17:03:48 2023
+128.txt,Sun Apr  2 17:03:48 2023
+ after all_filesSun Apr  2 17:03:48 2023
+1Sun Apr  2 17:03:48 2023
+after sendSun Apr  2 17:03:48 2023
+128.txt,Sun Apr  2 17:03:48 2023
+7Sun Apr  2 17:03:48 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:04:38 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:04:38 2023
+[ERROR] Connecting to index server with [MESSAGE] Connection Fail [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:04:38 2023
+[FAILURE] Could not register peer node [MESSAGE] Register peer [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:04:38 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:06:46 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:06:46 2023
+Before printing body Sun Apr  2 17:06:46 2023
+Need to update peer file list Sun Apr  2 17:06:46 2023
+in update messageSun Apr  2 17:06:46 2023
+128.txt,Sun Apr  2 17:06:46 2023
+ after all_filesSun Apr  2 17:06:46 2023
+1Sun Apr  2 17:06:46 2023
+after sendSun Apr  2 17:06:46 2023
+128.txt,Sun Apr  2 17:06:46 2023
+7Sun Apr  2 17:06:46 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:08:46 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:08:46 2023
+Before printing body Sun Apr  2 17:08:46 2023
+Need to update peer file list Sun Apr  2 17:08:46 2023
+in update messageSun Apr  2 17:08:46 2023
+128.txt,Sun Apr  2 17:08:46 2023
+ after all_filesSun Apr  2 17:08:46 2023
+1Sun Apr  2 17:08:46 2023
+after sendSun Apr  2 17:08:46 2023
+128.txt,Sun Apr  2 17:08:46 2023
+7Sun Apr  2 17:08:46 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:12:47 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:12:47 2023
+Before printing body Sun Apr  2 17:12:47 2023
+Need to update peer file list Sun Apr  2 17:12:47 2023
+in update messageSun Apr  2 17:12:47 2023
+128.txt,Sun Apr  2 17:12:47 2023
+ after all_filesSun Apr  2 17:12:47 2023
+1Sun Apr  2 17:12:47 2023
+after sendSun Apr  2 17:12:47 2023
+128.txt,Sun Apr  2 17:12:47 2023
+7Sun Apr  2 17:12:47 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:14:36 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:14:36 2023
+Before printing body Sun Apr  2 17:14:36 2023
+Need to update peer file list Sun Apr  2 17:14:36 2023
+in update messageSun Apr  2 17:14:36 2023
+128.txt,Sun Apr  2 17:14:36 2023
+ after all_filesSun Apr  2 17:14:36 2023
+1Sun Apr  2 17:14:36 2023
+after sendSun Apr  2 17:14:36 2023
+128.txt,Sun Apr  2 17:14:36 2023
+7Sun Apr  2 17:14:36 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:16:42 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:16:42 2023
+Before printing body Sun Apr  2 17:16:42 2023
+Need to update peer file list Sun Apr  2 17:16:42 2023
+in update messageSun Apr  2 17:16:42 2023
+128.txt,Sun Apr  2 17:16:42 2023
+ after all_filesSun Apr  2 17:16:42 2023
+1Sun Apr  2 17:16:42 2023
+after sendSun Apr  2 17:16:42 2023
+128.txt,Sun Apr  2 17:16:42 2023
+7Sun Apr  2 17:16:42 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:17:58 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:17:58 2023
+Before printing body Sun Apr  2 17:17:58 2023
+Need to update peer file list Sun Apr  2 17:17:58 2023
+in update messageSun Apr  2 17:17:58 2023
+128.txt,Sun Apr  2 17:17:58 2023
+ after all_filesSun Apr  2 17:17:58 2023
+1Sun Apr  2 17:17:58 2023
+after sendSun Apr  2 17:17:58 2023
+128.txt,Sun Apr  2 17:17:58 2023
+7Sun Apr  2 17:17:58 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:23:36 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:23:36 2023
+Before printing body Sun Apr  2 17:23:36 2023
+Need to update peer file list Sun Apr  2 17:23:36 2023
+in update messageSun Apr  2 17:23:36 2023
+128.txt,Sun Apr  2 17:23:36 2023
+ after all_filesSun Apr  2 17:23:36 2023
+1Sun Apr  2 17:23:36 2023
+after sendSun Apr  2 17:23:36 2023
+128.txt,Sun Apr  2 17:23:36 2023
+7Sun Apr  2 17:23:36 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:24:58 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:24:58 2023
+Before printing body Sun Apr  2 17:24:58 2023
+Need to update peer file list Sun Apr  2 17:24:58 2023
+in update messageSun Apr  2 17:24:58 2023
+128.txt,Sun Apr  2 17:24:58 2023
+ after all_filesSun Apr  2 17:24:58 2023
+1Sun Apr  2 17:24:58 2023
+after sendSun Apr  2 17:24:58 2023
+128.txt,Sun Apr  2 17:24:58 2023
+7Sun Apr  2 17:24:58 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:28:08 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:28:08 2023
+Before printing body Sun Apr  2 17:28:08 2023
+Need to update peer file list Sun Apr  2 17:28:08 2023
+in update messageSun Apr  2 17:28:08 2023
+128.txt,Sun Apr  2 17:28:08 2023
+ after all_filesSun Apr  2 17:28:08 2023
+1Sun Apr  2 17:28:08 2023
+after sendSun Apr  2 17:28:08 2023
+128.txt,Sun Apr  2 17:28:08 2023
+7Sun Apr  2 17:28:08 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:30:20 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:30:20 2023
+Before printing body Sun Apr  2 17:30:20 2023
+Need to update peer file list Sun Apr  2 17:30:20 2023
+in update messageSun Apr  2 17:30:20 2023
+128.txt,Sun Apr  2 17:30:20 2023
+ after all_filesSun Apr  2 17:30:20 2023
+1Sun Apr  2 17:30:20 2023
+after sendSun Apr  2 17:30:20 2023
+128.txt,Sun Apr  2 17:30:20 2023
+7Sun Apr  2 17:30:20 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:31:21 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:31:21 2023
+[ERROR] Connecting to index server with [MESSAGE] Connection Fail [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:31:21 2023
+[FAILURE] Could not register peer node [MESSAGE] Register peer [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:31:21 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:32:03 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:32:03 2023
+Before printing body Sun Apr  2 17:32:04 2023
+Need to update peer file list Sun Apr  2 17:32:04 2023
+in update messageSun Apr  2 17:32:04 2023
+128.txt,Sun Apr  2 17:32:04 2023
+ after all_filesSun Apr  2 17:32:04 2023
+1Sun Apr  2 17:32:04 2023
+after sendSun Apr  2 17:32:04 2023
+128.txt,Sun Apr  2 17:32:04 2023
+7Sun Apr  2 17:32:04 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:33:41 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:33:41 2023
+Before printing body Sun Apr  2 17:33:41 2023
+Need to update peer file list Sun Apr  2 17:33:41 2023
+in update messageSun Apr  2 17:33:41 2023
+128.txt,Sun Apr  2 17:33:41 2023
+ after all_filesSun Apr  2 17:33:41 2023
+1Sun Apr  2 17:33:41 2023
+after sendSun Apr  2 17:33:41 2023
+128.txt,Sun Apr  2 17:33:41 2023
+7Sun Apr  2 17:33:41 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:35:11 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:35:11 2023
+Before printing body Sun Apr  2 17:35:11 2023
+Need to update peer file list Sun Apr  2 17:35:11 2023
+in update messageSun Apr  2 17:35:11 2023
+128.txt,Sun Apr  2 17:35:11 2023
+ after all_filesSun Apr  2 17:35:11 2023
+1Sun Apr  2 17:35:11 2023
+after sendSun Apr  2 17:35:11 2023
+128.txt,Sun Apr  2 17:35:11 2023
+7Sun Apr  2 17:35:11 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:35:54 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:35:54 2023
+[ERROR] Connecting to index server with [MESSAGE] Connection Fail [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:35:54 2023
+[FAILURE] Could not register peer node [MESSAGE] Register peer [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:35:54 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:36:27 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:36:27 2023
+Before printing body Sun Apr  2 17:36:27 2023
+Need to update peer file list Sun Apr  2 17:36:27 2023
+in update messageSun Apr  2 17:36:27 2023
+128.txt,Sun Apr  2 17:36:27 2023
+ after all_filesSun Apr  2 17:36:27 2023
+1Sun Apr  2 17:36:27 2023
+after sendSun Apr  2 17:36:27 2023
+128.txt,Sun Apr  2 17:36:27 2023
+7Sun Apr  2 17:36:27 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:38:01 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:38:01 2023
+Before printing body Sun Apr  2 17:38:01 2023
+Need to update peer file list Sun Apr  2 17:38:01 2023
+in update messageSun Apr  2 17:38:01 2023
+128.txt,Sun Apr  2 17:38:01 2023
+ after all_filesSun Apr  2 17:38:01 2023
+1Sun Apr  2 17:38:01 2023
+after sendSun Apr  2 17:38:01 2023
+128.txt,Sun Apr  2 17:38:01 2023
+7Sun Apr  2 17:38:01 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:40:55 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:40:55 2023
+Before printing body Sun Apr  2 17:40:55 2023
+Need to update peer file list Sun Apr  2 17:40:55 2023
+in update messageSun Apr  2 17:40:55 2023
+128.txt,Sun Apr  2 17:40:55 2023
+ after all_filesSun Apr  2 17:40:55 2023
+1Sun Apr  2 17:40:55 2023
+after sendSun Apr  2 17:40:55 2023
+128.txt,Sun Apr  2 17:40:55 2023
+7Sun Apr  2 17:40:55 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:42:29 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:42:29 2023
+Before printing body Sun Apr  2 17:42:29 2023
+Need to update peer file list Sun Apr  2 17:42:29 2023
+in update messageSun Apr  2 17:42:29 2023
+128.txt,Sun Apr  2 17:42:29 2023
+ after all_filesSun Apr  2 17:42:29 2023
+1Sun Apr  2 17:42:29 2023
+after sendSun Apr  2 17:42:29 2023
+128.txt,Sun Apr  2 17:42:29 2023
+7Sun Apr  2 17:42:29 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:44:02 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:44:02 2023
+Before printing body Sun Apr  2 17:44:02 2023
+Need to update peer file list Sun Apr  2 17:44:02 2023
+in update messageSun Apr  2 17:44:02 2023
+128.txt,Sun Apr  2 17:44:02 2023
+ after all_filesSun Apr  2 17:44:02 2023
+1Sun Apr  2 17:44:02 2023
+after sendSun Apr  2 17:44:02 2023
+128.txt,Sun Apr  2 17:44:02 2023
+7Sun Apr  2 17:44:02 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:44:57 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:44:57 2023
+[ERROR] Connecting to index server with [MESSAGE] Connection Fail [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:44:57 2023
+[FAILURE] Could not register peer node [MESSAGE] Register peer [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:44:57 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:45:44 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:45:44 2023
+Before printing body Sun Apr  2 17:45:44 2023
+Need to update peer file list Sun Apr  2 17:45:44 2023
+in update messageSun Apr  2 17:45:44 2023
+128.txt,Sun Apr  2 17:45:44 2023
+ after all_filesSun Apr  2 17:45:44 2023
+1Sun Apr  2 17:45:44 2023
+after sendSun Apr  2 17:45:44 2023
+128.txt,Sun Apr  2 17:45:44 2023
+7Sun Apr  2 17:45:44 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:48:42 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:48:42 2023
+Before printing body Sun Apr  2 17:48:42 2023
+Need to update peer file list Sun Apr  2 17:48:42 2023
+in update messageSun Apr  2 17:48:42 2023
+128.txt,Sun Apr  2 17:48:42 2023
+ after all_filesSun Apr  2 17:48:42 2023
+1Sun Apr  2 17:48:42 2023
+after sendSun Apr  2 17:48:42 2023
+128.txt,Sun Apr  2 17:48:42 2023
+7Sun Apr  2 17:48:42 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:50:59 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:50:59 2023
+Before printing body Sun Apr  2 17:50:59 2023
+Need to update peer file list Sun Apr  2 17:50:59 2023
+in update messageSun Apr  2 17:50:59 2023
+128.txt,Sun Apr  2 17:50:59 2023
+ after all_filesSun Apr  2 17:50:59 2023
+1Sun Apr  2 17:50:59 2023
+after sendSun Apr  2 17:50:59 2023
+128.txt,Sun Apr  2 17:50:59 2023
+7Sun Apr  2 17:50:59 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:53:12 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:53:12 2023
+Before printing body Sun Apr  2 17:53:12 2023
+Need to update peer file list Sun Apr  2 17:53:12 2023
+in update messageSun Apr  2 17:53:12 2023
+128.txt,Sun Apr  2 17:53:12 2023
+ after all_filesSun Apr  2 17:53:12 2023
+1Sun Apr  2 17:53:12 2023
+after sendSun Apr  2 17:53:12 2023
+128.txt,Sun Apr  2 17:53:12 2023
+7Sun Apr  2 17:53:12 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:54:40 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:54:40 2023
+Before printing body Sun Apr  2 17:54:40 2023
+Need to update peer file list Sun Apr  2 17:54:40 2023
+in update messageSun Apr  2 17:54:40 2023
+128.txt,Sun Apr  2 17:54:40 2023
+ after all_filesSun Apr  2 17:54:40 2023
+1Sun Apr  2 17:54:40 2023
+after sendSun Apr  2 17:54:40 2023
+128.txt,Sun Apr  2 17:54:40 2023
+7Sun Apr  2 17:54:40 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:56:36 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:56:36 2023
+Before printing body Sun Apr  2 17:56:36 2023
+Need to update peer file list Sun Apr  2 17:56:36 2023
+in update messageSun Apr  2 17:56:36 2023
+128.txt,Sun Apr  2 17:56:36 2023
+ after all_filesSun Apr  2 17:56:36 2023
+1Sun Apr  2 17:56:36 2023
+after sendSun Apr  2 17:56:36 2023
+128.txt,Sun Apr  2 17:56:36 2023
+7Sun Apr  2 17:56:36 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:58:14 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:58:14 2023
+Before printing body Sun Apr  2 17:58:14 2023
+Need to update peer file list Sun Apr  2 17:58:14 2023
+in update messageSun Apr  2 17:58:14 2023
+128.txt,Sun Apr  2 17:58:14 2023
+ after all_filesSun Apr  2 17:58:14 2023
+1Sun Apr  2 17:58:14 2023
+after sendSun Apr  2 17:58:14 2023
+128.txt,Sun Apr  2 17:58:14 2023
+7Sun Apr  2 17:58:14 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:59:47 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 17:59:47 2023
+Before printing body Sun Apr  2 17:59:47 2023
+Need to update peer file list Sun Apr  2 17:59:47 2023
+in update messageSun Apr  2 17:59:47 2023
+128.txt,Sun Apr  2 17:59:47 2023
+ after all_filesSun Apr  2 17:59:47 2023
+1Sun Apr  2 17:59:47 2023
+after sendSun Apr  2 17:59:47 2023
+128.txt,Sun Apr  2 17:59:47 2023
+7Sun Apr  2 17:59:47 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:02:06 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:02:06 2023
+Before printing body Sun Apr  2 18:02:06 2023
+Need to update peer file list Sun Apr  2 18:02:06 2023
+in update messageSun Apr  2 18:02:06 2023
+128.txt,Sun Apr  2 18:02:06 2023
+ after all_filesSun Apr  2 18:02:06 2023
+1Sun Apr  2 18:02:06 2023
+after sendSun Apr  2 18:02:06 2023
+128.txt,Sun Apr  2 18:02:06 2023
+7Sun Apr  2 18:02:06 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:03:58 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:03:58 2023
+Before printing body Sun Apr  2 18:03:58 2023
+Need to update peer file list Sun Apr  2 18:03:58 2023
+in update messageSun Apr  2 18:03:58 2023
+128.txt,Sun Apr  2 18:03:58 2023
+ after all_filesSun Apr  2 18:03:58 2023
+1Sun Apr  2 18:03:58 2023
+after sendSun Apr  2 18:03:58 2023
+128.txt,Sun Apr  2 18:03:58 2023
+7Sun Apr  2 18:03:58 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:06:24 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:06:24 2023
+Before printing body Sun Apr  2 18:06:24 2023
+Need to update peer file list Sun Apr  2 18:06:24 2023
+in update messageSun Apr  2 18:06:24 2023
+128.txt,Sun Apr  2 18:06:24 2023
+ after all_filesSun Apr  2 18:06:24 2023
+1Sun Apr  2 18:06:24 2023
+after sendSun Apr  2 18:06:24 2023
+128.txt,Sun Apr  2 18:06:24 2023
+7Sun Apr  2 18:06:24 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:08:45 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:08:45 2023
+Before printing body Sun Apr  2 18:08:45 2023
+Need to update peer file list Sun Apr  2 18:08:45 2023
+in update messageSun Apr  2 18:08:45 2023
+128.txt,Sun Apr  2 18:08:45 2023
+ after all_filesSun Apr  2 18:08:45 2023
+1Sun Apr  2 18:08:45 2023
+after sendSun Apr  2 18:08:45 2023
+128.txt,Sun Apr  2 18:08:45 2023
+7Sun Apr  2 18:08:45 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:10:01 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:10:01 2023
+Before printing body Sun Apr  2 18:10:01 2023
+Need to update peer file list Sun Apr  2 18:10:01 2023
+in update messageSun Apr  2 18:10:01 2023
+128.txt,Sun Apr  2 18:10:01 2023
+ after all_filesSun Apr  2 18:10:01 2023
+1Sun Apr  2 18:10:01 2023
+after sendSun Apr  2 18:10:01 2023
+128.txt,Sun Apr  2 18:10:01 2023
+7Sun Apr  2 18:10:01 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:11:15 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44456 [TIME] Sun Apr  2 18:11:15 2023
+Before printing body Sun Apr  2 18:11:15 2023
+Need to update peer file list Sun Apr  2 18:11:15 2023
+in update messageSun Apr  2 18:11:15 2023
+128.txt,Sun Apr  2 18:11:15 2023
+ after all_filesSun Apr  2 18:11:15 2023
+1Sun Apr  2 18:11:15 2023
+after sendSun Apr  2 18:11:15 2023
+128.txt,Sun Apr  2 18:11:15 2023
+7Sun Apr  2 18:11:15 2023

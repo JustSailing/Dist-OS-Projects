@@ -1,0 +1,2344 @@
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 11:58:01 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 11:58:01 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 11:58:01 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 11:58:02 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50106 [TIME] Sun Apr  2 11:58:02 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+512.txt,Sun Apr  2 11:58:02 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 11:58:02 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680451082 [START TIME] 1680451082 [FINISH TIME] 1680451082 [DIFF] 356858
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 11:58:04 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50116 [TIME] Sun Apr  2 11:58:04 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 11:58:04 2023
+
+477990[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 11:58:04 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 11:58:04 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 11:58:04 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 11:58:04 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680451084 [START TIME] 1680451084 [FINISH TIME] 1680451084 [DIFF] 1.07592e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:35:41 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:35:41 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:35:41 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:35:42 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 38276 [TIME] Sun Apr  2 13:35:42 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+512.txt,Sun Apr  2 13:35:42 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:35:42 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680456942 [START TIME] 1680456942 [FINISH TIME] 1680456942 [DIFF] 1.1978e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:35:44 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 38290 [TIME] Sun Apr  2 13:35:44 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:35:44 2023
+
+79765[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:35:44 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:35:44 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:35:44 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:35:44 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680456944 [START TIME] 1680456944 [FINISH TIME] 1680456944 [DIFF] 1.16978e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:37:26 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:37:26 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:37:26 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:37:27 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57456 [TIME] Sun Apr  2 13:37:27 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+512.txt,Sun Apr  2 13:37:27 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:37:27 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457047 [START TIME] 1680457047 [FINISH TIME] 1680457047 [DIFF] 218535
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:37:29 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57466 [TIME] Sun Apr  2 13:37:29 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:37:29 2023
+
+830605[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:37:29 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:37:29 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:37:29 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:37:29 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680457049 [START TIME] 1680457049 [FINISH TIME] 1680457049 [DIFF] 1.04028e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:37:34 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:37:34 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:37:42 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:37:42 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:38:51 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:38:51 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:38:51 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:38:52 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 45440 [TIME] Sun Apr  2 13:38:52 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+512.txt,Sun Apr  2 13:38:52 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:38:52 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457132 [START TIME] 1680457132 [FINISH TIME] 1680457132 [DIFF] 494653
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:38:54 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 45444 [TIME] Sun Apr  2 13:38:54 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:38:54 2023
+
+1299243[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:38:54 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:38:54 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:38:54 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:38:54 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680457134 [START TIME] 1680457134 [FINISH TIME] 1680457134 [DIFF] 1.03372e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:39:07 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:39:07 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:39:36 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:39:36 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:39:53 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:39:53 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:41:27 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:41:27 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:41:27 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:41:28 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36464 [TIME] Sun Apr  2 13:41:28 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+512.txt,Sun Apr  2 13:41:28 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:41:28 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457288 [START TIME] 1680457288 [FINISH TIME] 1680457288 [DIFF] 345783
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:41:30 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36480 [TIME] Sun Apr  2 13:41:30 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:41:30 2023
+
+1836286[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:41:30 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:41:30 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:41:30 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:41:30 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680457290 [START TIME] 1680457290 [FINISH TIME] 1680457290 [DIFF] 1.12211e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:41:51 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:41:51 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:42:30 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:42:30 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:42:46 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:42:46 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:42:46 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:42:47 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49106 [TIME] Sun Apr  2 13:42:47 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+512.txt,Sun Apr  2 13:42:47 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:42:47 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457367 [START TIME] 1680457367 [FINISH TIME] 1680457367 [DIFF] 465778
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:42:49 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49120 [TIME] Sun Apr  2 13:42:49 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:42:49 2023
+
+577317[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:42:49 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:42:49 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:42:49 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:42:49 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680457369 [START TIME] 1680457369 [FINISH TIME] 1680457369 [DIFF] 937894
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:44:09 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:44:09 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:44:09 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:44:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 43124 [TIME] Sun Apr  2 13:44:10 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+512.txt,Sun Apr  2 13:44:10 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:44:10 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457450 [START TIME] 1680457450 [FINISH TIME] 1680457450 [DIFF] 591788
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:44:12 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 43126 [TIME] Sun Apr  2 13:44:12 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:44:12 2023
+
+1678047[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:44:12 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:44:12 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:44:12 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:44:12 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680457452 [START TIME] 1680457452 [FINISH TIME] 1680457452 [DIFF] 1.06115e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:44:31 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:44:31 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:44:42 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:44:42 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:45:11 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:45:11 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:45:58 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:45:58 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:45:58 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:45:59 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57186 [TIME] Sun Apr  2 13:45:59 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+512.txt,Sun Apr  2 13:45:59 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:45:59 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457559 [START TIME] 1680457559 [FINISH TIME] 1680457559 [DIFF] 172053
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:46:01 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57202 [TIME] Sun Apr  2 13:46:01 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:46:01 2023
+
+514007[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:46:01 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:46:01 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:46:01 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:46:01 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680457561 [START TIME] 1680457561 [FINISH TIME] 1680457561 [DIFF] 327698
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:49:50 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:49:50 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:49:50 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:49:51 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 53966 [TIME] Sun Apr  2 13:49:51 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+512.txt,Sun Apr  2 13:49:51 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:49:51 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457791 [START TIME] 1680457791 [FINISH TIME] 1680457791 [DIFF] 316695
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:49:53 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 53978 [TIME] Sun Apr  2 13:49:53 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:49:53 2023
+
+902109[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:49:53 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:49:53 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:49:53 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:49:53 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680457793 [START TIME] 1680457793 [FINISH TIME] 1680457793 [DIFF] 217582
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:51:58 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:51:58 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:51:58 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:51:59 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50768 [TIME] Sun Apr  2 13:51:59 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+512.txt,Sun Apr  2 13:51:59 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:51:59 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680457919 [START TIME] 1680457919 [FINISH TIME] 1680457919 [DIFF] 351508
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:52:01 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50784 [TIME] Sun Apr  2 13:52:01 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:52:01 2023
+
+448077[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:52:01 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:52:01 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:52:01 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:52:01 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680457921 [START TIME] 1680457921 [FINISH TIME] 1680457921 [DIFF] 1.13486e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:56:57 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:56:57 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 13:56:57 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:56:58 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48816 [TIME] Sun Apr  2 13:56:58 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+512.txt,Sun Apr  2 13:56:58 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 13:56:58 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458218 [START TIME] 1680458218 [FINISH TIME] 1680458218 [DIFF] 331563
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 13:57:00 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48820 [TIME] Sun Apr  2 13:57:00 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:57:00 2023
+
+936337[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 13:57:00 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:57:00 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:57:00 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 13:57:00 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680458220 [START TIME] 1680458220 [FINISH TIME] 1680458220 [DIFF] 1.20139e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 13:57:35 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 13:57:35 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:00:29 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:00:29 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:00:29 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:00:30 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 46738 [TIME] Sun Apr  2 14:00:30 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+512.txt,Sun Apr  2 14:00:30 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:00:30 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458430 [START TIME] 1680458430 [FINISH TIME] 1680458430 [DIFF] 382272
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:00:32 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 46750 [TIME] Sun Apr  2 14:00:32 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:00:32 2023
+
+229063[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:00:32 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:00:32 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:00:32 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:00:32 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680458432 [START TIME] 1680458432 [FINISH TIME] 1680458432 [DIFF] 232911
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:01:21 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 14:01:21 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:04:40 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:04:40 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:04:40 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:04:41 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40450 [TIME] Sun Apr  2 14:04:41 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+512.txt,Sun Apr  2 14:04:41 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:04:41 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458681 [START TIME] 1680458681 [FINISH TIME] 1680458681 [DIFF] 1.44545e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:04:43 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40456 [TIME] Sun Apr  2 14:04:43 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:04:43 2023
+
+1068978[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:04:43 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:04:43 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:04:43 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:04:43 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680458683 [START TIME] 1680458683 [FINISH TIME] 1680458683 [DIFF] 366401
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:06:48 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:06:48 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:06:48 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:06:49 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48630 [TIME] Sun Apr  2 14:06:49 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+512.txt,Sun Apr  2 14:06:49 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:06:49 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458809 [START TIME] 1680458809 [FINISH TIME] 1680458809 [DIFF] 809509
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:06:51 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48640 [TIME] Sun Apr  2 14:06:51 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:06:51 2023
+
+124521[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:06:51 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:06:51 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:06:51 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:06:51 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680458811 [START TIME] 1680458811 [FINISH TIME] 1680458811 [DIFF] 211285
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:09:46 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:09:46 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:09:46 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:09:47 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 38898 [TIME] Sun Apr  2 14:09:47 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+512.txt,Sun Apr  2 14:09:47 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:09:47 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680458987 [START TIME] 1680458987 [FINISH TIME] 1680458987 [DIFF] 349830
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:09:49 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 38908 [TIME] Sun Apr  2 14:09:49 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:09:49 2023
+
+1138949[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:09:49 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:09:49 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:09:49 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:09:49 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680458989 [START TIME] 1680458989 [FINISH TIME] 1680458989 [DIFF] 781830
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:12:54 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:12:54 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:12:54 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:12:55 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 51590 [TIME] Sun Apr  2 14:12:55 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+512.txt,Sun Apr  2 14:12:55 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:12:55 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680459175 [START TIME] 1680459175 [FINISH TIME] 1680459175 [DIFF] 1.59648e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:12:57 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50596 [TIME] Sun Apr  2 14:12:57 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:12:57 2023
+
+1149838[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:12:57 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:12:57 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:12:57 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:12:57 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680459177 [START TIME] 1680459177 [FINISH TIME] 1680459177 [DIFF] 324170
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:16:23 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:16:23 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:16:23 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:16:24 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 42118 [TIME] Sun Apr  2 14:16:24 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+512.txt,Sun Apr  2 14:16:24 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:16:24 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680459384 [START TIME] 1680459384 [FINISH TIME] 1680459384 [DIFF] 235956
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:16:26 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 42130 [TIME] Sun Apr  2 14:16:26 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:16:26 2023
+
+327677[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:16:26 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:16:26 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:16:26 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:16:26 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680459386 [START TIME] 1680459386 [FINISH TIME] 1680459386 [DIFF] 1.14588e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:19:54 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:19:54 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:19:54 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:19:55 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50150 [TIME] Sun Apr  2 14:19:55 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+512.txt,Sun Apr  2 14:19:55 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:19:55 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680459595 [START TIME] 1680459595 [FINISH TIME] 1680459595 [DIFF] 383960
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:19:57 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 54746 [TIME] Sun Apr  2 14:19:57 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:19:57 2023
+
+849370[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:19:57 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:19:57 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:19:57 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:19:57 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680459597 [START TIME] 1680459597 [FINISH TIME] 1680459597 [DIFF] 873718
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:23:42 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:23:42 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:23:42 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:23:43 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 37216 [TIME] Sun Apr  2 14:23:43 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+512.txt,Sun Apr  2 14:23:43 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:23:43 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680459823 [START TIME] 1680459823 [FINISH TIME] 1680459823 [DIFF] 1.6207e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:23:45 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 37228 [TIME] Sun Apr  2 14:23:45 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:23:45 2023
+
+34522[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:23:45 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:23:45 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:23:45 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:23:45 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680459825 [START TIME] 1680459825 [FINISH TIME] 1680459825 [DIFF] 556404
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:26:58 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:26:58 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:26:58 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:26:59 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35570 [TIME] Sun Apr  2 14:26:59 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+512.txt,Sun Apr  2 14:26:59 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:26:59 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460019 [START TIME] 1680460019 [FINISH TIME] 1680460019 [DIFF] 290717
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:27:01 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35580 [TIME] Sun Apr  2 14:27:01 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:27:01 2023
+
+1231568[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:27:01 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:27:01 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:27:01 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:27:01 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680460021 [START TIME] 1680460021 [FINISH TIME] 1680460021 [DIFF] 1.0467e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:28:09 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:28:09 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:28:09 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:28:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 56148 [TIME] Sun Apr  2 14:28:10 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+512.txt,Sun Apr  2 14:28:10 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:28:10 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460090 [START TIME] 1680460090 [FINISH TIME] 1680460090 [DIFF] 309713
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:28:12 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 56160 [TIME] Sun Apr  2 14:28:12 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:28:12 2023
+
+20374[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:28:12 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:28:12 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:28:12 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:28:12 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680460092 [START TIME] 1680460092 [FINISH TIME] 1680460092 [DIFF] 1.05362e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:31:39 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:31:39 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:31:39 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:31:40 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47736 [TIME] Sun Apr  2 14:31:40 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+512.txt,Sun Apr  2 14:31:40 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:31:40 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460300 [START TIME] 1680460300 [FINISH TIME] 1680460300 [DIFF] 468784
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:31:42 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47750 [TIME] Sun Apr  2 14:31:42 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:31:42 2023
+
+1183702[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:31:42 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:31:42 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:31:42 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:31:42 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680460302 [START TIME] 1680460302 [FINISH TIME] 1680460302 [DIFF] 1.11493e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:33:08 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:33:08 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:33:08 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:33:09 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50128 [TIME] Sun Apr  2 14:33:09 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+512.txt,Sun Apr  2 14:33:09 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:33:09 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460389 [START TIME] 1680460389 [FINISH TIME] 1680460389 [DIFF] 281953
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:33:11 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 50138 [TIME] Sun Apr  2 14:33:11 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:33:11 2023
+
+75637[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:33:11 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:33:11 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:33:11 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:33:11 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680460391 [START TIME] 1680460391 [FINISH TIME] 1680460391 [DIFF] 1.02429e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:36:15 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:36:15 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:36:15 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:36:16 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 52714 [TIME] Sun Apr  2 14:36:16 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+512.txt,Sun Apr  2 14:36:16 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:36:16 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460576 [START TIME] 1680460576 [FINISH TIME] 1680460576 [DIFF] 229493
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:36:18 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 45398 [TIME] Sun Apr  2 14:36:18 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:36:18 2023
+
+658435[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:36:18 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:36:18 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:36:18 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:36:18 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680460578 [START TIME] 1680460578 [FINISH TIME] 1680460578 [DIFF] 1.1175e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:39:09 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:39:09 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:39:09 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:39:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49482 [TIME] Sun Apr  2 14:39:10 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+512.txt,Sun Apr  2 14:39:10 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:39:10 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680460750 [START TIME] 1680460750 [FINISH TIME] 1680460750 [DIFF] 286135
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:39:12 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49488 [TIME] Sun Apr  2 14:39:12 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:39:12 2023
+
+1614814[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:39:12 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:39:12 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:39:12 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:39:12 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680460752 [START TIME] 1680460752 [FINISH TIME] 1680460752 [DIFF] 1.06933e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:49:13 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:49:13 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:49:13 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:49:14 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 37762 [TIME] Sun Apr  2 14:49:14 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+512.txt,Sun Apr  2 14:49:14 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:49:14 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461354 [START TIME] 1680461354 [FINISH TIME] 1680461354 [DIFF] 760452
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:49:16 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 37772 [TIME] Sun Apr  2 14:49:16 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:49:16 2023
+
+41293[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:49:16 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:49:16 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:49:16 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:49:16 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680461356 [START TIME] 1680461356 [FINISH TIME] 1680461356 [DIFF] 985548
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:51:57 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:51:57 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:51:57 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:51:58 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40798 [TIME] Sun Apr  2 14:51:58 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+512.txt,Sun Apr  2 14:51:58 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:51:58 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461518 [START TIME] 1680461518 [FINISH TIME] 1680461518 [DIFF] 254801
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:52:00 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40804 [TIME] Sun Apr  2 14:52:00 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:52:00 2023
+
+775525[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:52:00 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:52:00 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:52:00 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:52:00 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680461520 [START TIME] 1680461520 [FINISH TIME] 1680461520 [DIFF] 826318
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:53:28 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:53:28 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:53:28 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:53:29 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 39424 [TIME] Sun Apr  2 14:53:29 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+512.txt,Sun Apr  2 14:53:29 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:53:29 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461609 [START TIME] 1680461609 [FINISH TIME] 1680461609 [DIFF] 309694
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:53:31 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 39426 [TIME] Sun Apr  2 14:53:31 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:53:31 2023
+
+1985539[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:53:31 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:53:31 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:53:31 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:53:31 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680461611 [START TIME] 1680461611 [FINISH TIME] 1680461611 [DIFF] 977536
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:57:24 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:57:24 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:57:24 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:57:25 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 59374 [TIME] Sun Apr  2 14:57:25 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+512.txt,Sun Apr  2 14:57:25 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:57:25 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461845 [START TIME] 1680461845 [FINISH TIME] 1680461845 [DIFF] 302138
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:57:27 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49780 [TIME] Sun Apr  2 14:57:27 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:57:27 2023
+
+143073[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:57:27 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:57:27 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:57:27 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:57:27 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680461847 [START TIME] 1680461847 [FINISH TIME] 1680461847 [DIFF] 843509
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 14:59:45 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:59:45 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 14:59:45 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:59:46 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57498 [TIME] Sun Apr  2 14:59:46 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+512.txt,Sun Apr  2 14:59:46 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 14:59:46 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680461986 [START TIME] 1680461986 [FINISH TIME] 1680461986 [DIFF] 304506
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 14:59:48 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57502 [TIME] Sun Apr  2 14:59:48 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:59:48 2023
+
+467206[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 14:59:48 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:59:48 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:59:48 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 14:59:48 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680461988 [START TIME] 1680461988 [FINISH TIME] 1680461988 [DIFF] 995547
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:01:26 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:01:26 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:01:26 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:01:27 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 34052 [TIME] Sun Apr  2 15:01:27 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+512.txt,Sun Apr  2 15:01:27 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:01:27 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462087 [START TIME] 1680462087 [FINISH TIME] 1680462087 [DIFF] 324278
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:01:29 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 34068 [TIME] Sun Apr  2 15:01:29 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:01:29 2023
+
+660539[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:01:29 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:01:29 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:01:29 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:01:29 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680462089 [START TIME] 1680462089 [FINISH TIME] 1680462089 [DIFF] 932441
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:03:08 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:03:08 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:03:08 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:03:09 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 55008 [TIME] Sun Apr  2 15:03:09 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+512.txt,Sun Apr  2 15:03:09 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:03:09 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462189 [START TIME] 1680462189 [FINISH TIME] 1680462189 [DIFF] 533048
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:03:11 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 55016 [TIME] Sun Apr  2 15:03:11 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:03:11 2023
+
+763727[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:03:11 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:03:11 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:03:11 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:03:11 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680462191 [START TIME] 1680462191 [FINISH TIME] 1680462191 [DIFF] 830386
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:07:05 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:07:05 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:07:05 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:07:06 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40666 [TIME] Sun Apr  2 15:07:06 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+512.txt,Sun Apr  2 15:07:06 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:07:06 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462426 [START TIME] 1680462426 [FINISH TIME] 1680462426 [DIFF] 306033
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:07:08 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36664 [TIME] Sun Apr  2 15:07:08 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:07:08 2023
+
+813187[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:07:08 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:07:08 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:07:08 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:07:08 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680462428 [START TIME] 1680462428 [FINISH TIME] 1680462428 [DIFF] 1.03254e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:09:15 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:09:15 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:09:15 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:09:16 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49872 [TIME] Sun Apr  2 15:09:16 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+512.txt,Sun Apr  2 15:09:16 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:09:16 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462556 [START TIME] 1680462556 [FINISH TIME] 1680462556 [DIFF] 566285
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:09:18 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 39220 [TIME] Sun Apr  2 15:09:18 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:09:18 2023
+
+749554[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:09:18 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:09:18 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:09:18 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:09:18 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680462558 [START TIME] 1680462558 [FINISH TIME] 1680462558 [DIFF] 1.204e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:12:07 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:12:07 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:12:07 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:12:08 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 52046 [TIME] Sun Apr  2 15:12:08 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+512.txt,Sun Apr  2 15:12:08 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:12:08 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462728 [START TIME] 1680462728 [FINISH TIME] 1680462728 [DIFF] 608399
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:12:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 52054 [TIME] Sun Apr  2 15:12:10 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:12:10 2023
+
+1602026[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:12:10 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:12:10 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:12:10 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:12:10 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680462730 [START TIME] 1680462730 [FINISH TIME] 1680462730 [DIFF] 1.06788e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:16:15 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:16:15 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:16:15 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:16:16 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 39512 [TIME] Sun Apr  2 15:16:16 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+512.txt,Sun Apr  2 15:16:16 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:16:16 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680462976 [START TIME] 1680462976 [FINISH TIME] 1680462976 [DIFF] 248482
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:16:18 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 38966 [TIME] Sun Apr  2 15:16:18 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:16:18 2023
+
+627346[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:16:18 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:16:18 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:16:18 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:16:18 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680462978 [START TIME] 1680462978 [FINISH TIME] 1680462978 [DIFF] 1.06181e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:18:35 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:18:35 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:18:35 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:18:36 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40604 [TIME] Sun Apr  2 15:18:36 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+512.txt,Sun Apr  2 15:18:36 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:18:36 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680463116 [START TIME] 1680463116 [FINISH TIME] 1680463116 [DIFF] 283998
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:18:38 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40612 [TIME] Sun Apr  2 15:18:38 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:18:38 2023
+
+1735114[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:18:38 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:18:38 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:18:38 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:18:38 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680463118 [START TIME] 1680463118 [FINISH TIME] 1680463118 [DIFF] 1.00724e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:24:19 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:24:19 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:24:19 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:24:20 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57510 [TIME] Sun Apr  2 15:24:20 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+512.txt,Sun Apr  2 15:24:20 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:24:20 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680463460 [START TIME] 1680463460 [FINISH TIME] 1680463460 [DIFF] 294798
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:24:22 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57524 [TIME] Sun Apr  2 15:24:22 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:24:22 2023
+
+1954053[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:24:22 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:24:22 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:24:22 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:24:22 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680463462 [START TIME] 1680463462 [FINISH TIME] 1680463462 [DIFF] 986232
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:26:30 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:26:30 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:26:30 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:26:31 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36516 [TIME] Sun Apr  2 15:26:31 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+512.txt,Sun Apr  2 15:26:31 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:26:31 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680463591 [START TIME] 1680463591 [FINISH TIME] 1680463591 [DIFF] 221055
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:26:33 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36532 [TIME] Sun Apr  2 15:26:33 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:26:33 2023
+
+1479392[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:26:33 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:26:33 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:26:33 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:26:33 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680463593 [START TIME] 1680463593 [FINISH TIME] 1680463593 [DIFF] 1.00092e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:31:07 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:31:07 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:31:07 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:31:08 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36760 [TIME] Sun Apr  2 15:31:08 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+512.txt,Sun Apr  2 15:31:08 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:31:08 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680463868 [START TIME] 1680463868 [FINISH TIME] 1680463868 [DIFF] 260760
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:31:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36768 [TIME] Sun Apr  2 15:31:10 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:31:10 2023
+
+592069[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:31:10 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:31:10 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:31:10 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:31:10 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680463870 [START TIME] 1680463870 [FINISH TIME] 1680463870 [DIFF] 1.04802e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:36:58 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:36:58 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:36:58 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:36:59 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36928 [TIME] Sun Apr  2 15:36:59 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+512.txt,Sun Apr  2 15:36:59 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:36:59 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680464219 [START TIME] 1680464219 [FINISH TIME] 1680464219 [DIFF] 276877
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:37:01 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36938 [TIME] Sun Apr  2 15:37:01 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:37:01 2023
+
+217149[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:37:01 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:37:01 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:37:01 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:37:01 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680464221 [START TIME] 1680464221 [FINISH TIME] 1680464221 [DIFF] 894698
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:44:10 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:44:10 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:44:10 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:44:11 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49720 [TIME] Sun Apr  2 15:44:11 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+512.txt,Sun Apr  2 15:44:11 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:44:11 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680464651 [START TIME] 1680464651 [FINISH TIME] 1680464651 [DIFF] 234433
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:44:13 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49732 [TIME] Sun Apr  2 15:44:13 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:44:13 2023
+
+241250[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:44:13 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:44:13 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:44:13 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:44:13 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680464653 [START TIME] 1680464653 [FINISH TIME] 1680464653 [DIFF] 867817
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:49:30 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:49:30 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:49:30 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:49:31 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 39806 [TIME] Sun Apr  2 15:49:31 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+512.txt,Sun Apr  2 15:49:31 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:49:31 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680464971 [START TIME] 1680464971 [FINISH TIME] 1680464971 [DIFF] 244334
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:49:33 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 39812 [TIME] Sun Apr  2 15:49:33 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:49:33 2023
+
+810267[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:49:33 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:49:33 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:49:33 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:49:33 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680464973 [START TIME] 1680464973 [FINISH TIME] 1680464973 [DIFF] 1.10732e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:49:53 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 15:49:53 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:51:50 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:51:50 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:51:50 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:51:51 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 44974 [TIME] Sun Apr  2 15:51:51 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+512.txt,Sun Apr  2 15:51:51 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:51:51 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465111 [START TIME] 1680465111 [FINISH TIME] 1680465111 [DIFF] 1.51799e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:51:53 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 44984 [TIME] Sun Apr  2 15:51:53 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:51:53 2023
+
+475229[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:51:53 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:51:53 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:51:53 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:51:53 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680465113 [START TIME] 1680465113 [FINISH TIME] 1680465113 [DIFF] 400744
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 15:54:07 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:54:07 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 15:54:07 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:54:08 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 41526 [TIME] Sun Apr  2 15:54:08 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+512.txt,Sun Apr  2 15:54:08 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 15:54:08 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465248 [START TIME] 1680465248 [FINISH TIME] 1680465248 [DIFF] 781872
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 15:54:10 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 41528 [TIME] Sun Apr  2 15:54:10 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:54:10 2023
+
+1344595[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 15:54:10 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:54:10 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:54:10 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 15:54:10 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680465250 [START TIME] 1680465250 [FINISH TIME] 1680465250 [DIFF] 1.07222e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:00:27 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:00:27 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:00:27 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:00:28 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 42736 [TIME] Sun Apr  2 16:00:28 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+512.txt,Sun Apr  2 16:00:28 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:00:28 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465628 [START TIME] 1680465628 [FINISH TIME] 1680465628 [DIFF] 1.57309e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:00:30 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 42744 [TIME] Sun Apr  2 16:00:30 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:00:30 2023
+
+1945639[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:00:30 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:00:30 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:00:30 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:00:30 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680465630 [START TIME] 1680465630 [FINISH TIME] 1680465630 [DIFF] 1.10258e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:03:45 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:03:45 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:03:45 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:03:46 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47118 [TIME] Sun Apr  2 16:03:46 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+512.txt,Sun Apr  2 16:03:46 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:03:46 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465826 [START TIME] 1680465826 [FINISH TIME] 1680465826 [DIFF] 476019
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:03:48 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47132 [TIME] Sun Apr  2 16:03:48 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:03:48 2023
+
+1449339[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:03:48 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:03:48 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:03:48 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:03:48 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680465828 [START TIME] 1680465828 [FINISH TIME] 1680465828 [DIFF] 240210
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:04:22 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 16:04:22 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:05:45 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:05:45 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:05:45 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:05:46 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49164 [TIME] Sun Apr  2 16:05:46 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+512.txt,Sun Apr  2 16:05:46 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:05:46 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680465946 [START TIME] 1680465946 [FINISH TIME] 1680465946 [DIFF] 1.3522e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:05:48 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49172 [TIME] Sun Apr  2 16:05:48 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:05:48 2023
+
+1049976[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:05:48 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:05:48 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:05:48 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:05:48 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680465948 [START TIME] 1680465948 [FINISH TIME] 1680465948 [DIFF] 859486
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:08:04 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:08:04 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:08:04 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:08:05 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 52902 [TIME] Sun Apr  2 16:08:05 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+512.txt,Sun Apr  2 16:08:05 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:08:05 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680466085 [START TIME] 1680466085 [FINISH TIME] 1680466085 [DIFF] 1.1332e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:08:07 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47454 [TIME] Sun Apr  2 16:08:07 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:08:07 2023
+
+715061[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:08:07 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:08:07 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:08:07 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:08:07 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680466087 [START TIME] 1680466087 [FINISH TIME] 1680466087 [DIFF] 229501
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:08:32 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 16:08:32 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:11:42 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:11:42 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:11:42 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:11:43 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35296 [TIME] Sun Apr  2 16:11:43 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+512.txt,Sun Apr  2 16:11:43 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:11:43 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680466303 [START TIME] 1680466303 [FINISH TIME] 1680466303 [DIFF] 1.56057e+06
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:11:45 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35304 [TIME] Sun Apr  2 16:11:45 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:11:45 2023
+
+1694783[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:11:45 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:11:45 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:11:45 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:11:45 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680466305 [START TIME] 1680466305 [FINISH TIME] 1680466305 [DIFF] 1.32141e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:19:01 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:19:01 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:19:01 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:19:02 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 33996 [TIME] Sun Apr  2 16:19:02 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+512.txt,Sun Apr  2 16:19:02 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:19:02 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680466742 [START TIME] 1680466742 [FINISH TIME] 1680466742 [DIFF] 347203
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:19:04 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 33998 [TIME] Sun Apr  2 16:19:04 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:19:04 2023
+
+89334[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:19:04 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:19:04 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:19:04 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:19:04 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680466744 [START TIME] 1680466744 [FINISH TIME] 1680466744 [DIFF] 1.13463e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:23:06 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:23:06 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:23:06 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:23:07 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 41030 [TIME] Sun Apr  2 16:23:07 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+512.txt,Sun Apr  2 16:23:07 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:23:07 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680466987 [START TIME] 1680466987 [FINISH TIME] 1680466987 [DIFF] 321392
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:23:09 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 41046 [TIME] Sun Apr  2 16:23:09 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:23:09 2023
+
+1291973[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:23:09 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:23:09 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:23:09 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:23:09 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680466989 [START TIME] 1680466989 [FINISH TIME] 1680466989 [DIFF] 1.15083e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:24:29 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:24:29 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:24:29 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:24:30 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 34812 [TIME] Sun Apr  2 16:24:30 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+512.txt,Sun Apr  2 16:24:30 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:24:30 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467070 [START TIME] 1680467070 [FINISH TIME] 1680467070 [DIFF] 474886
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:24:32 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 34816 [TIME] Sun Apr  2 16:24:32 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:24:32 2023
+
+64660[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:24:32 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:24:32 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:24:32 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:24:32 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680467072 [START TIME] 1680467072 [FINISH TIME] 1680467072 [DIFF] 335028
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:29:22 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:29:22 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:29:22 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:29:23 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49464 [TIME] Sun Apr  2 16:29:23 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+512.txt,Sun Apr  2 16:29:23 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:29:23 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467363 [START TIME] 1680467363 [FINISH TIME] 1680467363 [DIFF] 196608
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:29:25 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49478 [TIME] Sun Apr  2 16:29:25 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:29:25 2023
+
+1884845[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:29:25 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:29:25 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:29:25 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:29:25 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680467365 [START TIME] 1680467365 [FINISH TIME] 1680467365 [DIFF] 1.28974e+06
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:32:39 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:32:39 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:32:39 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:32:40 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47280 [TIME] Sun Apr  2 16:32:40 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+512.txt,Sun Apr  2 16:32:40 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:32:40 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467560 [START TIME] 1680467560 [FINISH TIME] 1680467560 [DIFF] 441201
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:32:42 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47282 [TIME] Sun Apr  2 16:32:42 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:32:42 2023
+
+770607[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:32:42 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:32:42 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:32:42 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:32:42 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680467562 [START TIME] 1680467562 [FINISH TIME] 1680467562 [DIFF] 550268
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:34:18 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:34:18 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:34:18 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:34:19 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48608 [TIME] Sun Apr  2 16:34:19 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+512.txt,Sun Apr  2 16:34:19 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:34:19 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467659 [START TIME] 1680467659 [FINISH TIME] 1680467659 [DIFF] 405115
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:34:21 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48614 [TIME] Sun Apr  2 16:34:21 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:34:21 2023
+
+1576671[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:34:21 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:34:21 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:34:21 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:34:21 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680467661 [START TIME] 1680467661 [FINISH TIME] 1680467661 [DIFF] 555942
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:35:12 2023
+
+[ERROR] Binding server socket to ip failed [TIME] Sun Apr  2 16:35:12 2023
+
+[SUCCESS] Creation of socket [SOCKET_FD] 5 [TIME] Sun Apr  2 16:36:00 2023
+
+[SUCCESS] Binding server to socket with ip [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:36:00 2023
+
+[SUCCESS] Listening on server socket to [IP] 127.0.0.1 [PORT] 33335 [TIME] Sun Apr  2 16:36:00 2023
+
+[SUCCESS] Accepting client on [SOCKET] 6 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:36:01 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 33194 [TIME] Sun Apr  2 16:36:01 2023
+
+[Received] message register[MESSAGE] Register [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+[SUCCESS] Got IP and Port of peer [IP] 127.0.0.1 [PORT] 44464[MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+Need to update peer file list [MESSAGE] [SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+Need to update peer file list [MESSAGE] [FINISHED SENDING FROM REGISTER] [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+512.txt,Sun Apr  2 16:36:01 2023
+
+512.txt,[MESSAGE] body message from peer [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+file 512.txt[MESSAGE] file in map [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME] Sun Apr  2 16:36:01 2023
+
+[SUCCESS] registering peer [PeerID] 0 [MESSAGE] REGISTER [CLIENT_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680467761 [START TIME] 1680467761 [FINISH TIME] 1680467761 [DIFF] 329321
+[SUCCESS] Accepting client on [SOCKET] 7 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:36:03 2023
+
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 33208 [TIME] Sun Apr  2 16:36:03 2023
+
+2k.txt[MESSAGE] filename sent [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:36:03 2023
+
+1570207[MESSAGE] uuid [CLIENT_IP] 127.0.0.1 [SOCKET] 0 [TIME] Sun Apr  2 16:36:03 2023
+
+[SUCCESS] connected to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:36:03 2023
+
+[SUCCESS] Sending QUERY to super peer [MESSAGE] QUERY [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:36:03 2023
+
+[SUCCESS] Sent empty list to super peer. File not in super peers weak peers [MESSAGE] QUERYHIT [CLIENT_IP] 127.0.0.1 [SOCKET] 16 [TIME] Sun Apr  2 16:36:03 2023
+
+[SUCCESS] sending query list to client [PeerID] 1 [MESSAGE] Query [CLIENT_IP] 127.0.0.1 [SOCKET] 7 [TIME STAMP] 1680467763 [START TIME] 1680467763 [FINISH TIME] 1680467763 [DIFF] 1.08185e+06

@@ -1,0 +1,618 @@
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:40:07 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:40:07 2023
+Before printing body Sun Apr  2 16:40:07 2023
+Need to update peer file list Sun Apr  2 16:40:07 2023
+in update messageSun Apr  2 16:40:07 2023
+2k.txt,Sun Apr  2 16:40:07 2023
+ after all_filesSun Apr  2 16:40:07 2023
+1Sun Apr  2 16:40:07 2023
+after sendSun Apr  2 16:40:07 2023
+2k.txt,Sun Apr  2 16:40:07 2023
+7Sun Apr  2 16:40:07 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680468007 [START TIME] 1680468007 [FINISH TIME] 1680468007 [DIFF] 513694
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49350 [TIME] Sun Apr  2 16:40:09 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 16:40:09 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] sending from peer to peer [MESSAGE] Download [IP] [MESSAGE] Download [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME STAMP] 1680468009 [START TIME] 1680468009 [FINISH TIME] 1680468009 [DIFF] 499413
+[SUCCESS] Accepting client on [SOCKET] 10 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49354 [TIME] Sun Apr  2 16:40:09 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 10 [TIME] Sun Apr  2 16:40:09 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 16:40:09 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:43:17 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:43:17 2023
+Before printing body Sun Apr  2 16:43:17 2023
+Need to update peer file list Sun Apr  2 16:43:17 2023
+in update messageSun Apr  2 16:43:17 2023
+2k.txt,Sun Apr  2 16:43:17 2023
+ after all_filesSun Apr  2 16:43:17 2023
+1Sun Apr  2 16:43:17 2023
+after sendSun Apr  2 16:43:17 2023
+2k.txt,Sun Apr  2 16:43:17 2023
+7Sun Apr  2 16:43:17 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:48:08 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:48:08 2023
+Before printing body Sun Apr  2 16:48:08 2023
+Need to update peer file list Sun Apr  2 16:48:08 2023
+in update messageSun Apr  2 16:48:08 2023
+2k.txt,Sun Apr  2 16:48:08 2023
+ after all_filesSun Apr  2 16:48:08 2023
+1Sun Apr  2 16:48:08 2023
+after sendSun Apr  2 16:48:08 2023
+2k.txt,Sun Apr  2 16:48:08 2023
+7Sun Apr  2 16:48:08 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680468488 [START TIME] 1680468488 [FINISH TIME] 1680468488 [DIFF] 3.20715e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:48:10 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 56836 [TIME] Sun Apr  2 16:48:10 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 16:48:10 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 16:48:10 2023
+[ERROR] Binding peer server socket to ip failed [TIME] Sun Apr  2 16:49:10 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:55:53 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:55:53 2023
+Before printing body Sun Apr  2 16:55:53 2023
+Need to update peer file list Sun Apr  2 16:55:53 2023
+in update messageSun Apr  2 16:55:53 2023
+2k.txt,Sun Apr  2 16:55:53 2023
+ after all_filesSun Apr  2 16:55:53 2023
+1Sun Apr  2 16:55:53 2023
+after sendSun Apr  2 16:55:53 2023
+2k.txt,Sun Apr  2 16:55:53 2023
+7Sun Apr  2 16:55:53 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680468953 [START TIME] 1680468953 [FINISH TIME] 1680468953 [DIFF] 446398
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 37466 [TIME] Sun Apr  2 16:55:55 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 16:55:55 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 16:55:55 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:59:00 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 16:59:00 2023
+Before printing body Sun Apr  2 16:59:00 2023
+Need to update peer file list Sun Apr  2 16:59:00 2023
+in update messageSun Apr  2 16:59:00 2023
+2k.txt,Sun Apr  2 16:59:00 2023
+ after all_filesSun Apr  2 16:59:00 2023
+1Sun Apr  2 16:59:00 2023
+after sendSun Apr  2 16:59:00 2023
+2k.txt,Sun Apr  2 16:59:00 2023
+7Sun Apr  2 16:59:00 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680469140 [START TIME] 1680469140 [FINISH TIME] 1680469140 [DIFF] 524468
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 59684 [TIME] Sun Apr  2 16:59:02 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 16:59:02 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 16:59:02 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:01:01 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:01:01 2023
+Before printing body Sun Apr  2 17:01:01 2023
+Need to update peer file list Sun Apr  2 17:01:01 2023
+in update messageSun Apr  2 17:01:01 2023
+2k.txt,Sun Apr  2 17:01:01 2023
+ after all_filesSun Apr  2 17:01:01 2023
+1Sun Apr  2 17:01:01 2023
+after sendSun Apr  2 17:01:01 2023
+2k.txt,Sun Apr  2 17:01:01 2023
+7Sun Apr  2 17:01:01 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680469261 [START TIME] 1680469261 [FINISH TIME] 1680469261 [DIFF] 257781
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36306 [TIME] Sun Apr  2 17:01:03 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:01:03 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:01:03 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:02:07 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:02:07 2023
+[ERROR] Connecting to index server with [MESSAGE] Connection Fail [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:02:07 2023
+[FAILURE] Could not register peer node [MESSAGE] Register peer [PEER_IP] 127.0.0.1 [SOCKET] 5 [TIME] Sun Apr  2 17:02:07 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:03:48 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:03:48 2023
+Before printing body Sun Apr  2 17:03:48 2023
+Need to update peer file list Sun Apr  2 17:03:48 2023
+in update messageSun Apr  2 17:03:48 2023
+2k.txt,Sun Apr  2 17:03:48 2023
+ after all_filesSun Apr  2 17:03:48 2023
+1Sun Apr  2 17:03:48 2023
+after sendSun Apr  2 17:03:48 2023
+2k.txt,Sun Apr  2 17:03:48 2023
+7Sun Apr  2 17:03:48 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680469428 [START TIME] 1680469428 [FINISH TIME] 1680469428 [DIFF] 451287
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:03:50 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 55384 [TIME] Sun Apr  2 17:03:50 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:03:50 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:03:50 2023
+[ERROR] Binding peer server socket to ip failed [TIME] Sun Apr  2 17:04:38 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:06:46 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:06:46 2023
+Before printing body Sun Apr  2 17:06:46 2023
+Need to update peer file list Sun Apr  2 17:06:46 2023
+in update messageSun Apr  2 17:06:46 2023
+2k.txt,Sun Apr  2 17:06:46 2023
+ after all_filesSun Apr  2 17:06:46 2023
+1Sun Apr  2 17:06:46 2023
+after sendSun Apr  2 17:06:46 2023
+2k.txt,Sun Apr  2 17:06:46 2023
+7Sun Apr  2 17:06:46 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680469606 [START TIME] 1680469606 [FINISH TIME] 1680469606 [DIFF] 3.22195e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 55692 [TIME] Sun Apr  2 17:06:48 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:06:48 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:06:48 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:08:46 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:08:46 2023
+Before printing body Sun Apr  2 17:08:46 2023
+Need to update peer file list Sun Apr  2 17:08:46 2023
+in update messageSun Apr  2 17:08:46 2023
+2k.txt,Sun Apr  2 17:08:46 2023
+ after all_filesSun Apr  2 17:08:46 2023
+1Sun Apr  2 17:08:46 2023
+after sendSun Apr  2 17:08:46 2023
+2k.txt,Sun Apr  2 17:08:46 2023
+7Sun Apr  2 17:08:46 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680469726 [START TIME] 1680469726 [FINISH TIME] 1680469726 [DIFF] 1.39017e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 54700 [TIME] Sun Apr  2 17:08:48 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:08:48 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:08:48 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:12:47 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:12:47 2023
+Before printing body Sun Apr  2 17:12:47 2023
+Need to update peer file list Sun Apr  2 17:12:47 2023
+in update messageSun Apr  2 17:12:47 2023
+2k.txt,Sun Apr  2 17:12:47 2023
+ after all_filesSun Apr  2 17:12:47 2023
+1Sun Apr  2 17:12:47 2023
+after sendSun Apr  2 17:12:47 2023
+2k.txt,Sun Apr  2 17:12:47 2023
+7Sun Apr  2 17:12:47 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680469967 [START TIME] 1680469967 [FINISH TIME] 1680469967 [DIFF] 4.76423e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 39184 [TIME] Sun Apr  2 17:12:49 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:12:49 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:12:49 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:14:36 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:14:36 2023
+Before printing body Sun Apr  2 17:14:36 2023
+Need to update peer file list Sun Apr  2 17:14:36 2023
+in update messageSun Apr  2 17:14:36 2023
+2k.txt,Sun Apr  2 17:14:36 2023
+ after all_filesSun Apr  2 17:14:36 2023
+1Sun Apr  2 17:14:36 2023
+after sendSun Apr  2 17:14:36 2023
+2k.txt,Sun Apr  2 17:14:36 2023
+7Sun Apr  2 17:14:36 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680470076 [START TIME] 1680470076 [FINISH TIME] 1680470076 [DIFF] 2.82061e+06
+[SUCCESS] Accepting client on [SOCKET] 10 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:14:38 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 47814 [TIME] Sun Apr  2 17:14:38 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 10 [TIME] Sun Apr  2 17:14:38 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:14:38 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:16:42 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:16:42 2023
+Before printing body Sun Apr  2 17:16:42 2023
+Need to update peer file list Sun Apr  2 17:16:42 2023
+in update messageSun Apr  2 17:16:42 2023
+2k.txt,Sun Apr  2 17:16:42 2023
+ after all_filesSun Apr  2 17:16:42 2023
+1Sun Apr  2 17:16:42 2023
+after sendSun Apr  2 17:16:42 2023
+2k.txt,Sun Apr  2 17:16:42 2023
+7Sun Apr  2 17:16:42 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680470202 [START TIME] 1680470202 [FINISH TIME] 1680470202 [DIFF] 374693
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48828 [TIME] Sun Apr  2 17:16:44 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:16:44 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:16:44 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:17:58 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:17:58 2023
+Before printing body Sun Apr  2 17:17:58 2023
+Need to update peer file list Sun Apr  2 17:17:58 2023
+in update messageSun Apr  2 17:17:58 2023
+2k.txt,Sun Apr  2 17:17:58 2023
+ after all_filesSun Apr  2 17:17:58 2023
+1Sun Apr  2 17:17:58 2023
+after sendSun Apr  2 17:17:58 2023
+2k.txt,Sun Apr  2 17:17:58 2023
+7Sun Apr  2 17:17:58 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680470278 [START TIME] 1680470278 [FINISH TIME] 1680470278 [DIFF] 2.86701e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 56456 [TIME] Sun Apr  2 17:18:00 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:18:00 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:18:00 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:23:36 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:23:36 2023
+Before printing body Sun Apr  2 17:23:36 2023
+Need to update peer file list Sun Apr  2 17:23:36 2023
+in update messageSun Apr  2 17:23:36 2023
+2k.txt,Sun Apr  2 17:23:36 2023
+ after all_filesSun Apr  2 17:23:36 2023
+1Sun Apr  2 17:23:36 2023
+after sendSun Apr  2 17:23:36 2023
+2k.txt,Sun Apr  2 17:23:36 2023
+7Sun Apr  2 17:23:36 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680470616 [START TIME] 1680470616 [FINISH TIME] 1680470616 [DIFF] 2.16483e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35054 [TIME] Sun Apr  2 17:23:38 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:23:38 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:23:38 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:24:58 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:24:58 2023
+Before printing body Sun Apr  2 17:24:58 2023
+Need to update peer file list Sun Apr  2 17:24:58 2023
+in update messageSun Apr  2 17:24:58 2023
+2k.txt,Sun Apr  2 17:24:58 2023
+ after all_filesSun Apr  2 17:24:58 2023
+1Sun Apr  2 17:24:58 2023
+after sendSun Apr  2 17:24:58 2023
+2k.txt,Sun Apr  2 17:24:58 2023
+7Sun Apr  2 17:24:58 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680470698 [START TIME] 1680470698 [FINISH TIME] 1680470698 [DIFF] 598551
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 41576 [TIME] Sun Apr  2 17:25:00 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:25:00 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:25:00 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:28:08 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:28:08 2023
+Before printing body Sun Apr  2 17:28:08 2023
+Need to update peer file list Sun Apr  2 17:28:08 2023
+in update messageSun Apr  2 17:28:08 2023
+2k.txt,Sun Apr  2 17:28:08 2023
+ after all_filesSun Apr  2 17:28:08 2023
+1Sun Apr  2 17:28:08 2023
+after sendSun Apr  2 17:28:08 2023
+2k.txt,Sun Apr  2 17:28:08 2023
+7Sun Apr  2 17:28:08 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:30:20 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:30:20 2023
+Before printing body Sun Apr  2 17:30:20 2023
+Need to update peer file list Sun Apr  2 17:30:20 2023
+in update messageSun Apr  2 17:30:20 2023
+2k.txt,Sun Apr  2 17:30:20 2023
+ after all_filesSun Apr  2 17:30:20 2023
+1Sun Apr  2 17:30:20 2023
+after sendSun Apr  2 17:30:20 2023
+2k.txt,Sun Apr  2 17:30:20 2023
+7Sun Apr  2 17:30:20 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471020 [START TIME] 1680471020 [FINISH TIME] 1680471020 [DIFF] 555399
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:30:22 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 53662 [TIME] Sun Apr  2 17:30:22 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:30:22 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:30:22 2023
+[ERROR] Binding peer server socket to ip failed [TIME] Sun Apr  2 17:31:21 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:32:04 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:32:04 2023
+Before printing body Sun Apr  2 17:32:04 2023
+Need to update peer file list Sun Apr  2 17:32:04 2023
+in update messageSun Apr  2 17:32:04 2023
+2k.txt,Sun Apr  2 17:32:04 2023
+ after all_filesSun Apr  2 17:32:04 2023
+1Sun Apr  2 17:32:04 2023
+after sendSun Apr  2 17:32:04 2023
+2k.txt,Sun Apr  2 17:32:04 2023
+7Sun Apr  2 17:32:04 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471124 [START TIME] 1680471124 [FINISH TIME] 1680471124 [DIFF] 2.03488e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 34604 [TIME] Sun Apr  2 17:32:06 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:32:06 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:32:06 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:33:41 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:33:41 2023
+Before printing body Sun Apr  2 17:33:41 2023
+Need to update peer file list Sun Apr  2 17:33:41 2023
+in update messageSun Apr  2 17:33:41 2023
+2k.txt,Sun Apr  2 17:33:41 2023
+ after all_filesSun Apr  2 17:33:41 2023
+1Sun Apr  2 17:33:41 2023
+after sendSun Apr  2 17:33:41 2023
+2k.txt,Sun Apr  2 17:33:41 2023
+7Sun Apr  2 17:33:41 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471221 [START TIME] 1680471221 [FINISH TIME] 1680471221 [DIFF] 1.19386e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 37570 [TIME] Sun Apr  2 17:33:43 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:33:43 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:33:43 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:35:11 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:35:11 2023
+Before printing body Sun Apr  2 17:35:11 2023
+Need to update peer file list Sun Apr  2 17:35:11 2023
+in update messageSun Apr  2 17:35:11 2023
+2k.txt,Sun Apr  2 17:35:11 2023
+ after all_filesSun Apr  2 17:35:11 2023
+1Sun Apr  2 17:35:11 2023
+after sendSun Apr  2 17:35:11 2023
+2k.txt,Sun Apr  2 17:35:11 2023
+7Sun Apr  2 17:35:11 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471311 [START TIME] 1680471311 [FINISH TIME] 1680471311 [DIFF] 1.98363e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:35:13 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 37876 [TIME] Sun Apr  2 17:35:13 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:35:13 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:35:13 2023
+[ERROR] Binding peer server socket to ip failed [TIME] Sun Apr  2 17:35:54 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:36:27 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:36:27 2023
+Before printing body Sun Apr  2 17:36:27 2023
+Need to update peer file list Sun Apr  2 17:36:27 2023
+in update messageSun Apr  2 17:36:27 2023
+2k.txt,Sun Apr  2 17:36:27 2023
+ after all_filesSun Apr  2 17:36:27 2023
+1Sun Apr  2 17:36:27 2023
+after sendSun Apr  2 17:36:27 2023
+2k.txt,Sun Apr  2 17:36:27 2023
+7Sun Apr  2 17:36:27 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471387 [START TIME] 1680471387 [FINISH TIME] 1680471387 [DIFF] 2.4623e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35422 [TIME] Sun Apr  2 17:36:29 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:36:29 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:36:29 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:38:01 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:38:01 2023
+Before printing body Sun Apr  2 17:38:01 2023
+Need to update peer file list Sun Apr  2 17:38:01 2023
+in update messageSun Apr  2 17:38:01 2023
+2k.txt,Sun Apr  2 17:38:01 2023
+ after all_filesSun Apr  2 17:38:01 2023
+1Sun Apr  2 17:38:01 2023
+after sendSun Apr  2 17:38:01 2023
+2k.txt,Sun Apr  2 17:38:01 2023
+7Sun Apr  2 17:38:01 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471481 [START TIME] 1680471481 [FINISH TIME] 1680471481 [DIFF] 2.23958e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40130 [TIME] Sun Apr  2 17:38:03 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:38:03 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:38:03 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:40:55 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:40:55 2023
+Before printing body Sun Apr  2 17:40:55 2023
+Need to update peer file list Sun Apr  2 17:40:55 2023
+in update messageSun Apr  2 17:40:55 2023
+2k.txt,Sun Apr  2 17:40:55 2023
+ after all_filesSun Apr  2 17:40:55 2023
+1Sun Apr  2 17:40:55 2023
+after sendSun Apr  2 17:40:55 2023
+2k.txt,Sun Apr  2 17:40:55 2023
+7Sun Apr  2 17:40:55 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:42:29 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:42:29 2023
+Before printing body Sun Apr  2 17:42:29 2023
+Need to update peer file list Sun Apr  2 17:42:29 2023
+in update messageSun Apr  2 17:42:29 2023
+2k.txt,Sun Apr  2 17:42:29 2023
+ after all_filesSun Apr  2 17:42:29 2023
+1Sun Apr  2 17:42:29 2023
+after sendSun Apr  2 17:42:29 2023
+2k.txt,Sun Apr  2 17:42:29 2023
+7Sun Apr  2 17:42:29 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471749 [START TIME] 1680471749 [FINISH TIME] 1680471749 [DIFF] 2.19528e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35722 [TIME] Sun Apr  2 17:42:31 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:42:31 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:42:31 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:44:02 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:44:02 2023
+Before printing body Sun Apr  2 17:44:02 2023
+Need to update peer file list Sun Apr  2 17:44:02 2023
+in update messageSun Apr  2 17:44:02 2023
+2k.txt,Sun Apr  2 17:44:02 2023
+ after all_filesSun Apr  2 17:44:02 2023
+1Sun Apr  2 17:44:02 2023
+after sendSun Apr  2 17:44:02 2023
+2k.txt,Sun Apr  2 17:44:02 2023
+7Sun Apr  2 17:44:02 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471842 [START TIME] 1680471842 [FINISH TIME] 1680471842 [DIFF] 2.85401e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:44:04 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 54996 [TIME] Sun Apr  2 17:44:04 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:44:04 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:44:04 2023
+[ERROR] Binding peer server socket to ip failed [TIME] Sun Apr  2 17:44:57 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:45:44 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:45:44 2023
+Before printing body Sun Apr  2 17:45:44 2023
+Need to update peer file list Sun Apr  2 17:45:44 2023
+in update messageSun Apr  2 17:45:44 2023
+2k.txt,Sun Apr  2 17:45:44 2023
+ after all_filesSun Apr  2 17:45:44 2023
+1Sun Apr  2 17:45:44 2023
+after sendSun Apr  2 17:45:44 2023
+2k.txt,Sun Apr  2 17:45:44 2023
+7Sun Apr  2 17:45:44 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680471944 [START TIME] 1680471944 [FINISH TIME] 1680471944 [DIFF] 2.49608e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 49852 [TIME] Sun Apr  2 17:45:46 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:45:46 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:45:46 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:48:42 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:48:42 2023
+Before printing body Sun Apr  2 17:48:42 2023
+Need to update peer file list Sun Apr  2 17:48:42 2023
+in update messageSun Apr  2 17:48:42 2023
+2k.txt,Sun Apr  2 17:48:42 2023
+ after all_filesSun Apr  2 17:48:42 2023
+1Sun Apr  2 17:48:42 2023
+after sendSun Apr  2 17:48:42 2023
+2k.txt,Sun Apr  2 17:48:42 2023
+7Sun Apr  2 17:48:42 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680472122 [START TIME] 1680472122 [FINISH TIME] 1680472122 [DIFF] 4.40233e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 36174 [TIME] Sun Apr  2 17:48:44 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:48:44 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:48:44 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:50:59 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:50:59 2023
+Before printing body Sun Apr  2 17:50:59 2023
+Need to update peer file list Sun Apr  2 17:50:59 2023
+in update messageSun Apr  2 17:50:59 2023
+2k.txt,Sun Apr  2 17:50:59 2023
+ after all_filesSun Apr  2 17:50:59 2023
+1Sun Apr  2 17:50:59 2023
+after sendSun Apr  2 17:50:59 2023
+2k.txt,Sun Apr  2 17:50:59 2023
+7Sun Apr  2 17:50:59 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:53:12 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:53:12 2023
+Before printing body Sun Apr  2 17:53:12 2023
+Need to update peer file list Sun Apr  2 17:53:12 2023
+in update messageSun Apr  2 17:53:12 2023
+2k.txt,Sun Apr  2 17:53:12 2023
+ after all_filesSun Apr  2 17:53:12 2023
+1Sun Apr  2 17:53:12 2023
+after sendSun Apr  2 17:53:12 2023
+2k.txt,Sun Apr  2 17:53:12 2023
+7Sun Apr  2 17:53:12 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680472392 [START TIME] 1680472392 [FINISH TIME] 1680472392 [DIFF] 2.40064e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 57538 [TIME] Sun Apr  2 17:53:14 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:53:14 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:53:14 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:54:40 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:54:40 2023
+Before printing body Sun Apr  2 17:54:40 2023
+Need to update peer file list Sun Apr  2 17:54:40 2023
+in update messageSun Apr  2 17:54:40 2023
+2k.txt,Sun Apr  2 17:54:40 2023
+ after all_filesSun Apr  2 17:54:40 2023
+1Sun Apr  2 17:54:40 2023
+after sendSun Apr  2 17:54:40 2023
+2k.txt,Sun Apr  2 17:54:40 2023
+7Sun Apr  2 17:54:40 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680472480 [START TIME] 1680472480 [FINISH TIME] 1680472480 [DIFF] 1.43748e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 35508 [TIME] Sun Apr  2 17:54:42 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:54:42 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:54:42 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:56:36 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:56:36 2023
+Before printing body Sun Apr  2 17:56:36 2023
+Need to update peer file list Sun Apr  2 17:56:36 2023
+in update messageSun Apr  2 17:56:36 2023
+2k.txt,Sun Apr  2 17:56:36 2023
+ after all_filesSun Apr  2 17:56:36 2023
+1Sun Apr  2 17:56:36 2023
+after sendSun Apr  2 17:56:36 2023
+2k.txt,Sun Apr  2 17:56:36 2023
+7Sun Apr  2 17:56:36 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680472596 [START TIME] 1680472596 [FINISH TIME] 1680472596 [DIFF] 2.16844e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 46572 [TIME] Sun Apr  2 17:56:38 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:56:38 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:56:38 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:58:14 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:58:14 2023
+Before printing body Sun Apr  2 17:58:14 2023
+Need to update peer file list Sun Apr  2 17:58:14 2023
+in update messageSun Apr  2 17:58:14 2023
+2k.txt,Sun Apr  2 17:58:14 2023
+ after all_filesSun Apr  2 17:58:14 2023
+1Sun Apr  2 17:58:14 2023
+after sendSun Apr  2 17:58:14 2023
+2k.txt,Sun Apr  2 17:58:14 2023
+7Sun Apr  2 17:58:14 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680472694 [START TIME] 1680472694 [FINISH TIME] 1680472694 [DIFF] 360233
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 48430 [TIME] Sun Apr  2 17:58:16 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:58:16 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:58:16 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:59:47 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 17:59:47 2023
+Before printing body Sun Apr  2 17:59:47 2023
+Need to update peer file list Sun Apr  2 17:59:47 2023
+in update messageSun Apr  2 17:59:47 2023
+2k.txt,Sun Apr  2 17:59:47 2023
+ after all_filesSun Apr  2 17:59:47 2023
+1Sun Apr  2 17:59:47 2023
+after sendSun Apr  2 17:59:47 2023
+2k.txt,Sun Apr  2 17:59:47 2023
+7Sun Apr  2 17:59:47 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680472787 [START TIME] 1680472787 [FINISH TIME] 1680472787 [DIFF] 356573
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 52480 [TIME] Sun Apr  2 17:59:49 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 17:59:49 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 17:59:49 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:02:06 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:02:06 2023
+Before printing body Sun Apr  2 18:02:06 2023
+Need to update peer file list Sun Apr  2 18:02:06 2023
+in update messageSun Apr  2 18:02:06 2023
+2k.txt,Sun Apr  2 18:02:06 2023
+ after all_filesSun Apr  2 18:02:06 2023
+1Sun Apr  2 18:02:06 2023
+after sendSun Apr  2 18:02:06 2023
+2k.txt,Sun Apr  2 18:02:06 2023
+7Sun Apr  2 18:02:06 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680472926 [START TIME] 1680472926 [FINISH TIME] 1680472926 [DIFF] 240415
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 60032 [TIME] Sun Apr  2 18:02:08 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 18:02:08 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 18:02:08 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:03:58 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:03:58 2023
+Before printing body Sun Apr  2 18:03:58 2023
+Need to update peer file list Sun Apr  2 18:03:58 2023
+in update messageSun Apr  2 18:03:58 2023
+2k.txt,Sun Apr  2 18:03:58 2023
+ after all_filesSun Apr  2 18:03:58 2023
+1Sun Apr  2 18:03:58 2023
+after sendSun Apr  2 18:03:58 2023
+2k.txt,Sun Apr  2 18:03:58 2023
+7Sun Apr  2 18:03:58 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680473038 [START TIME] 1680473038 [FINISH TIME] 1680473038 [DIFF] 931670
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40196 [TIME] Sun Apr  2 18:04:00 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 18:04:00 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 18:04:00 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:06:24 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:06:24 2023
+Before printing body Sun Apr  2 18:06:24 2023
+Need to update peer file list Sun Apr  2 18:06:24 2023
+in update messageSun Apr  2 18:06:24 2023
+2k.txt,Sun Apr  2 18:06:24 2023
+ after all_filesSun Apr  2 18:06:24 2023
+1Sun Apr  2 18:06:24 2023
+after sendSun Apr  2 18:06:24 2023
+2k.txt,Sun Apr  2 18:06:24 2023
+7Sun Apr  2 18:06:24 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680473184 [START TIME] 1680473184 [FINISH TIME] 1680473184 [DIFF] 5.94877e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 53514 [TIME] Sun Apr  2 18:06:26 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 18:06:26 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 18:06:26 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:08:45 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:08:45 2023
+Before printing body Sun Apr  2 18:08:45 2023
+Need to update peer file list Sun Apr  2 18:08:45 2023
+in update messageSun Apr  2 18:08:45 2023
+2k.txt,Sun Apr  2 18:08:45 2023
+ after all_filesSun Apr  2 18:08:45 2023
+1Sun Apr  2 18:08:45 2023
+after sendSun Apr  2 18:08:45 2023
+2k.txt,Sun Apr  2 18:08:45 2023
+7Sun Apr  2 18:08:45 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680473325 [START TIME] 1680473325 [FINISH TIME] 1680473325 [DIFF] 1.21137e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 40210 [TIME] Sun Apr  2 18:08:47 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 18:08:47 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 18:08:47 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:10:01 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:10:01 2023
+Before printing body Sun Apr  2 18:10:01 2023
+Need to update peer file list Sun Apr  2 18:10:01 2023
+in update messageSun Apr  2 18:10:01 2023
+2k.txt,Sun Apr  2 18:10:01 2023
+ after all_filesSun Apr  2 18:10:01 2023
+1Sun Apr  2 18:10:01 2023
+after sendSun Apr  2 18:10:01 2023
+2k.txt,Sun Apr  2 18:10:01 2023
+7Sun Apr  2 18:10:01 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680473401 [START TIME] 1680473401 [FINISH TIME] 1680473401 [DIFF] 845758
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 54286 [TIME] Sun Apr  2 18:10:03 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 18:10:03 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 18:10:03 2023
+[SUCCESS] Binding peer server to socket with ip [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:11:15 2023
+[SUCCESS] Listening on peer server socket to [IP] 127.0.0.1 [PORT] 44463 [TIME] Sun Apr  2 18:11:15 2023
+Before printing body Sun Apr  2 18:11:15 2023
+Need to update peer file list Sun Apr  2 18:11:15 2023
+in update messageSun Apr  2 18:11:15 2023
+2k.txt,Sun Apr  2 18:11:15 2023
+ after all_filesSun Apr  2 18:11:15 2023
+1Sun Apr  2 18:11:15 2023
+after sendSun Apr  2 18:11:15 2023
+2k.txt,Sun Apr  2 18:11:15 2023
+7Sun Apr  2 18:11:15 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [PEER_IP] 127.0.0.1 [SOCKET] 6 [TIME STAMP] 1680473475 [START TIME] 1680473475 [FINISH TIME] 1680473475 [DIFF] 1.64003e+06
+[SUCCESS] Accepting client on [SOCKET] 9 [IP] 127.0.0.1 [TIME] Sun Apr  2 18:11:17 2023
+[SUCCESS] Receiving from [IP] 127.0.0.1 [PORT] 33602 [TIME] Sun Apr  2 18:11:17 2023
+[RECEIVED] Download request [TIME] [MESSAGE] DOWNLOAD [PEER_IP] 127.0.0.1 [SOCKET] 9 [TIME] Sun Apr  2 18:11:17 2023
+2k.txt[MESSAGE] file to send [PEER_IP]  [SOCKET] 0 [TIME] Sun Apr  2 18:11:17 2023

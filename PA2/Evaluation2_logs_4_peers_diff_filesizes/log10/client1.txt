@@ -1,0 +1,32 @@
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Thu Mar  9 13:17:57 2023
+Before printing body Thu Mar  9 13:17:57 2023
+Need to update peer file list Thu Mar  9 13:17:57 2023
+in update messageThu Mar  9 13:17:57 2023
+128.txt,32k.txt,Thu Mar  9 13:17:57 2023
+ after all_filesThu Mar  9 13:17:57 2023
+1Thu Mar  9 13:17:57 2023
+after sendThu Mar  9 13:17:57 2023
+128.txt,32k.txt,Thu Mar  9 13:17:57 2023
+6Thu Mar  9 13:17:57 2023
+[SUCCESS] Registering with index server [MESSAGE] REGISTER [INDEX_IP] 127.0.0.1 [SOCKET] 8 [TIME STAMP] 1678385877 [START TIME] 1678385877 [FINISH TIME] 1678385877 [DIFF] 451938
+0Thu Mar  9 13:17:58 2023
+[SUCCESS] peers who have [FILE] 2k.txt [MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 14 [TIME STAMP] 1678385878 [START TIME] 1678385878 [FINISH TIME] 1678385878 [DIFF] 283032
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Thu Mar  9 13:17:58 2023
+44457[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Thu Mar  9 13:17:58 2023
+0Thu Mar  9 13:17:58 2023
+[SUCCESS] peers who have [FILE] 512.txt [MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 15 [TIME STAMP] 1678385878 [START TIME] 1678385878 [FINISH TIME] 1678385878 [DIFF] 349836
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Thu Mar  9 13:17:58 2023
+44459[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 17 [TIME] Thu Mar  9 13:17:58 2023
+0Thu Mar  9 13:17:58 2023
+[SUCCESS] peers who have [FILE] 8k.txt [MESSAGE] QUERY [INDEX_IP] 127.0.0.1 [SOCKET] 16 [TIME STAMP] 1678385878 [START TIME] 1678385878 [FINISH TIME] 1678385878 [DIFF] 644228
+[SUCCESS] Created socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 9 [TIME] Thu Mar  9 13:17:58 2023
+44458[MESSAGE] port [INDEX_IP] 127.0.0.1 [SOCKET] 9 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 18 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] Connected to peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 9 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] Sent from peer socket to download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 9 [TIME] Thu Mar  9 13:17:58 2023
+[SUCCESS] read from peer socket in download [MESSAGE] Download [INDEX_IP] 127.0.0.1 [SOCKET] 9 [TIME] Thu Mar  9 13:17:58 2023

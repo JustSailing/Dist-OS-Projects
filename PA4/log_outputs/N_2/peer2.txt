@@ -1,0 +1,1 @@
+[Success] Initialization of member variables[MESSAGE] Initialization Client [INDEX_IP] 127.0.0.1 [SOCKET] 0 [TIME] Wed Apr 12 20:26:16 2023

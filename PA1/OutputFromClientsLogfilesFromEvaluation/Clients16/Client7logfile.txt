@@ -1,0 +1,248 @@
+[Success] Creation of client socket [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:30:41 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[ERROR] Downloading file at client. Could not create file [MESSAGE] ERR_FILE [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:30:41 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[ERROR] Downloading file at client. Could not create file [MESSAGE] ERR_FILE [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:30:41 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[ERROR] Downloading file at client. Could not create file [MESSAGE] ERR_FILE [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:30:41 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[ERROR] Downloading file at client. Could not create file [MESSAGE] ERR_FILE [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:30:41 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[ERROR] Downloading file at client. Could not create file [MESSAGE] ERR_FILE [IP] 127.0.0.1 [TIME] Wed Feb 22 19:30:41 2023
+
+[Success] Creation of client socket [TIME] Wed Feb 22 19:42:07 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:07 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:07 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 128.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:07 2023
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:07 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:07 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 512.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:07 2023
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:07 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:07 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 2k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 2120 [TIME] Wed Feb 22 19:42:07 2023
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:07 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:07 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 8k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 8480 [TIME] Wed Feb 22 19:42:07 2023
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:07 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:07 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 32k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 33920 [TIME] Wed Feb 22 19:42:07 2023
+[Success] Creation of client socket [TIME] Wed Feb 22 19:42:26 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:26 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:26 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 128.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:26 2023
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:26 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:26 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 512.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:26 2023
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:26 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:26 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 2k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 2120 [TIME] Wed Feb 22 19:42:26 2023
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:26 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:26 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 8k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 8480 [TIME] Wed Feb 22 19:42:26 2023
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:26 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:26 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 32k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 33920 [TIME] Wed Feb 22 19:42:26 2023
+[Success] Creation of client socket [TIME] Wed Feb 22 19:42:27 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:27 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:27 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 128.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:27 2023
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:27 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:27 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 512.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:27 2023
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:27 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:27 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 2k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 2120 [TIME] Wed Feb 22 19:42:27 2023
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:27 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:27 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 8k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 8480 [TIME] Wed Feb 22 19:42:27 2023
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:27 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:27 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 32k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 33920 [TIME] Wed Feb 22 19:42:27 2023
+[Success] Creation of client socket [TIME] Wed Feb 22 19:42:28 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:28 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:28 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 128.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:28 2023
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:28 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:28 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 512.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:28 2023
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:28 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:28 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 2k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 2120 [TIME] Wed Feb 22 19:42:28 2023
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:28 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:28 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 8k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 8480 [TIME] Wed Feb 22 19:42:28 2023
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:28 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:28 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 32k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 33920 [TIME] Wed Feb 22 19:42:28 2023
+[Success] Creation of client socket [TIME] Wed Feb 22 19:42:29 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:29 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:29 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 128.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:29 2023
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:29 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:29 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 512.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:29 2023
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:29 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:29 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 2k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 2120 [TIME] Wed Feb 22 19:42:29 2023
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:29 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:29 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 8k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 8480 [TIME] Wed Feb 22 19:42:29 2023
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:29 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:29 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 32k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 33920 [TIME] Wed Feb 22 19:42:29 2023
+[Success] Creation of client socket [TIME] Wed Feb 22 19:42:30 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:30 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:30 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 128.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:30 2023
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:30 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:30 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 512.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:30 2023
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:30 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:30 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 2k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 2120 [TIME] Wed Feb 22 19:42:30 2023
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:30 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:30 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 8k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 8480 [TIME] Wed Feb 22 19:42:30 2023
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:30 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:30 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 32k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 33920 [TIME] Wed Feb 22 19:42:30 2023
+[Success] Creation of client socket [TIME] Wed Feb 22 19:42:31 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:31 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:31 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 128.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:31 2023
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:31 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:31 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 512.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:31 2023
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:31 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:31 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 2k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 2120 [TIME] Wed Feb 22 19:42:31 2023
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:31 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:31 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 8k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 8480 [TIME] Wed Feb 22 19:42:31 2023
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:31 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:31 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 32k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 33920 [TIME] Wed Feb 22 19:42:31 2023
+[Success] Creation of client socket [TIME] Wed Feb 22 19:42:32 2023
+
+[SUCCESS] Connected to server from client [SOCKET]4with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:32 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:32 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 128.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:32 2023
+[SUCCESS] Connected to server from client [SOCKET]5with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:32 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:32 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 512.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 1060 [TIME] Wed Feb 22 19:42:32 2023
+[SUCCESS] Connected to server from client [SOCKET]6with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:32 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:32 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 2k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 2120 [TIME] Wed Feb 22 19:42:32 2023
+[SUCCESS] Connected to server from client [SOCKET]7with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:32 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:32 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 8k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 8480 [TIME] Wed Feb 22 19:42:32 2023
+[SUCCESS] Connected to server from client [SOCKET]8with [IP] 127.0.0.1 [TIME] Wed Feb 22 19:42:32 2023
+
+[SUCCESS] receiving from server [MESSAGE] SINGLE_DL [TIME] Wed Feb 22 19:42:32 2023
+ [SEND_TIME] 0.000000 [BYTES_SENT] 1060
+[SUCCESS] Downloaded file from server [FILE] 32k.txt | to  client from server [MESSAGE] ADD_FILE [IP] 127.0.0.1 [BYTES_RECEIVED] 33920 [TIME] Wed Feb 22 19:42:32 2023
